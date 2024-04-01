@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>LaTeX on Abner Den</title>
-        <link>http://localhost:1313/categories/latex/</link>
+        <link>https://abnerteng.github.io/categories/latex/</link>
         <description>Recent content in LaTeX on Abner Den</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 31 Mar 2024 19:45:38 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/latex/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 31 Mar 2024 19:45:38 +0800</lastBuildDate><atom:link href="https://abnerteng.github.io/categories/latex/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>LaTeX Basic</title>
-        <link>http://localhost:1313/post/latex-basic/</link>
+        <link>https://abnerteng.github.io/post/latex-basic/</link>
         <pubDate>Sun, 31 Mar 2024 19:45:38 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/latex-basic/</guid>
-        <description>&lt;blockquote&gt;
+        <guid>https://abnerteng.github.io/post/latex-basic/</guid>
+        <description>&lt;img src="https://abnerteng.github.io/post/latex-basic/imgs/LaTeX_logo.png" alt="Featured image of post LaTeX Basic" /&gt;&lt;blockquote&gt;
 &lt;p&gt;以下內容揭示我從自己的 Medium 搬過來的，但因為這邊放圖很不方便，所以圖的部分會少很多。想看圖可以至&lt;a class=&#34;link&#34; href=&#34;https://medium.com/@Abnerteng&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;我的 Medium&lt;/a&gt;觀賞（但之後應該不會更新ㄌ）&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -87,6 +87,82 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;\item&lt;/span&gt; This is an entry without label
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;\item&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;[One-line description]&lt;/span&gt; This is an one-line description. &lt;span style=&#34;color:#66d9ef&#34;&gt;\end&lt;/span&gt;{description}&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h3 id=&#34;nested-list&#34;&gt;Nested List&lt;/h3&gt;
+&lt;p&gt;Nested 指的是巢狀結構，意即可以在 list 中再放入一個甚至多個 lists，形成一份篇幅較大的筆記&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;\begin&lt;/span&gt;{enumerate}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;\item&lt;/span&gt; number item 1
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;\begin&lt;/span&gt;{itemize}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;      &lt;span style=&#34;color:#66d9ef&#34;&gt;\item&lt;/span&gt; bullet item 1
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;      &lt;span style=&#34;color:#66d9ef&#34;&gt;\item&lt;/span&gt; bullet item 2
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;      &lt;span style=&#34;color:#66d9ef&#34;&gt;\begin&lt;/span&gt;{description}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;      &lt;span style=&#34;color:#66d9ef&#34;&gt;\item&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;[Note:]&lt;/span&gt; Note
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;      &lt;span style=&#34;color:#66d9ef&#34;&gt;\item&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;[Caveat!]&lt;/span&gt; Warning
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;      &lt;span style=&#34;color:#66d9ef&#34;&gt;\end&lt;/span&gt;{description}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;\end&lt;/span&gt;{itemize}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;\item&lt;/span&gt; number item 2
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;\end&lt;/span&gt;{enumerate}&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&#34;https://abnerteng.github.io/post/latex-basic/imgs/nested_list.png&#34;
+	width=&#34;1356&#34;
+	height=&#34;670&#34;
+	srcset=&#34;https://abnerteng.github.io/post/latex-basic/imgs/nested_list_huaa9971708b2599ca032e92fb778d205d_480802_480x0_resize_box_3.png 480w, https://abnerteng.github.io/post/latex-basic/imgs/nested_list_huaa9971708b2599ca032e92fb778d205d_480802_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;202&#34;
+		data-flex-basis=&#34;485px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;math-equations&#34;&gt;Math Equations&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;$\LaTeX$ 的重頭戲，我認為這邊是最一開始可以感受到 $\LaTeX$ 與 Microsoft Word 的差別。但我不會去細講數學式本身怎麼打，我會講的是如何把數學式寫得更好看。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;首先，數學是在一份文件中有兩種呈現方法，第一個是 Inline equation，顧名思義就是直接在句子中加入數學式，例如：Where  $y = \alpha + \beta x$。&lt;/p&gt;
+&lt;p&gt;第二種則是 block，例如：&lt;/p&gt;
+&lt;p&gt;$$\beta = \frac{\mathbf{x}^{\intercal}\mathbf{y}}{\mathbf{x}^{\intercal}\mathbf{x}}$$&lt;/p&gt;
+&lt;p&gt;Inline equation 比較單純，通常就是用 &lt;code&gt;$ type here $&lt;/code&gt; 或 &lt;code&gt;\begin{math} type here \end{math}&lt;/code&gt; 的方式呈現。&lt;/p&gt;
+&lt;p&gt;而 block 則有很多種寫法&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;$$ type here $$&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;\[ type here \]&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;\begin{equation} type here \end{equation}&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;\begin{align} type here \end{align}&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我自己是覺得後兩個比較正式也比較好看，就給大家參考ㄌ！&lt;/p&gt;
+&lt;h2 id=&#34;code-insertion&#34;&gt;Code Insertion&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Code Insertion 這個東西好像不是每個人都用得到，但是寫作業時特別好用 XD。尤其是當大家都在截圖貼 word 的時候，你的作業會顯得格外漂亮且工整。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;將程式碼嵌入文件中的方法就是使用 &lt;code&gt;listings&lt;/code&gt; 這個套件，接著使用 &lt;code&gt;\lstset{}&lt;/code&gt; 依照自己的喜好去更改 keyword, commend 等語法的顏色以及整個版面的其他設定（例如要不要留行數、程式碼的 block 要是什麼顏色、tab 是幾個 space 等等），最後則是使用 &lt;code&gt;\begin{lstlisting}type your code here \end{lstlisting}&lt;/code&gt; 來顯示程式碼。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;\usepackage&lt;/span&gt;{listings}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;\lstset&lt;/span&gt;{
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    frame=tb,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    language=C++,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    aboveskip=3mm,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    belowskip=3mm,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    numbers=left,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    tabsize=4
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    basicstyle={&lt;span style=&#34;color:#66d9ef&#34;&gt;\small\ttfamily&lt;/span&gt;} 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;\begin&lt;/span&gt;{document}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;\begin&lt;/span&gt;{lstlisting}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;#include &amp;lt;iostream&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;using namespace std;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;int main() {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    return 0;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;\end&lt;/span&gt;{lstlisting}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;\end&lt;/span&gt;{document}&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id=&#34;後記&#34;&gt;後記&lt;/h2&gt;
+&lt;p&gt;這次的內容主要 focus 在基礎的語法以及應用上（就是看完即可寫作業的程度），但其實 $\LaTeX$ 還有一個比較麻煩比較搞的地方是插入表格以及圖片的部分，想要兩張圖片並排還要多寫幾行程式碼XD，這部分就留到下一篇再講ㄌ（雖然我也不知道下一篇是啥時）。最後將附上自己的模板給需要的人使用。&lt;/p&gt;
+&lt;p&gt;Template Link: &lt;a class=&#34;link&#34; href=&#34;https://github.com/AbnerTeng/LaTeX-templates&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         

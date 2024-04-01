@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Abner Den</title>
-        <link>http://localhost:1313/categories/</link>
+        <link>https://abnerteng.github.io/categories/</link>
         <description>Recent content in Categories on Abner Den</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 10 Mar 2024 17:59:54 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 09 Mar 2024 23:35:54 +0800</lastBuildDate><atom:link href="https://abnerteng.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Sharing</title>
-        <link>http://localhost:1313/categories/sharing/</link>
-        <pubDate>Sun, 10 Mar 2024 17:59:54 +0800</pubDate>
+        <link>https://abnerteng.github.io/categories/sharing/</link>
+        <pubDate>Sat, 09 Mar 2024 23:35:54 +0800</pubDate>
         
-        <guid>http://localhost:1313/categories/sharing/</guid>
+        <guid>https://abnerteng.github.io/categories/sharing/</guid>
         <description></description>
         </item>
         

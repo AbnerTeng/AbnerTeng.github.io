@@ -2,63 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Sharing on Abner Den</title>
-        <link>http://localhost:1313/categories/sharing/</link>
+        <link>https://abnerteng.github.io/categories/sharing/</link>
         <description>Recent content in Sharing on Abner Den</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 10 Mar 2024 17:59:54 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/sharing/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>政大資科修課心得</title>
-        <link>http://localhost:1313/post/nccucs_course/</link>
-        <pubDate>Sun, 10 Mar 2024 17:59:54 +0800</pubDate>
-        
-        <guid>http://localhost:1313/post/nccucs_course/</guid>
-        <description>&lt;blockquote&gt;
-&lt;p&gt;真實修課心得，但我有時候很混，所以內容僅供參考。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;資料結構&#34;&gt;資料結構&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;修課時間：111-2&lt;/li&gt;
-&lt;li&gt;授課老師：郭桐惟&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;自然語言處理&#34;&gt;自然語言處理&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;修課時間：111-2&lt;/li&gt;
-&lt;li&gt;授課老師：黃瀚萱&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;網路搜索與探勘&#34;&gt;網路搜索與探勘&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;修課時間：112-1&lt;/li&gt;
-&lt;li&gt;授課老師：蔡銘峰&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;資料採掘&#34;&gt;資料採掘&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;修課時間：112-1&lt;/li&gt;
-&lt;li&gt;授課老師：魏綾音&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;機器學習概論&#34;&gt;機器學習概論&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;修課時間：112-1&lt;/li&gt;
-&lt;li&gt;授課老師：劉昭麟&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;資料庫系統&#34;&gt;資料庫系統&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;修課時間：112-2&lt;/li&gt;
-&lt;li&gt;授課老師：沈錳坤&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;物件導向程式設計&#34;&gt;物件導向程式設計&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;修課時間：112-2&lt;/li&gt;
-&lt;li&gt;授課老師：紀明德&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        <item>
+        <lastBuildDate>Sat, 09 Mar 2024 23:35:54 +0800</lastBuildDate><atom:link href="https://abnerteng.github.io/categories/sharing/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>NTU DAC 第五屆課程長心得</title>
-        <link>http://localhost:1313/post/ntudac_academic/</link>
+        <link>https://abnerteng.github.io/post/ntudac_academic/</link>
         <pubDate>Sat, 09 Mar 2024 23:35:54 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/ntudac_academic/</guid>
-        <description>&lt;img src="http://localhost:1313/post/ntudac_academic/IMG_4801.JPG" alt="Featured image of post NTU DAC 第五屆課程長心得" /&gt;&lt;blockquote&gt;
+        <guid>https://abnerteng.github.io/post/ntudac_academic/</guid>
+        <description>&lt;img src="https://abnerteng.github.io/post/ntudac_academic/IMG_4801.JPG" alt="Featured image of post NTU DAC 第五屆課程長心得" /&gt;&lt;blockquote&gt;
 &lt;p&gt;以下內容為本人擔任近一年以來的真實心得，不會有任何吹捧與詆毀&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;當初會想要擔任 DAC 的課程長有幾個目的&lt;/p&gt;

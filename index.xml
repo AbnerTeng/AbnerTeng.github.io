@@ -2,76 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Abner Den</title>
-        <link>http://localhost:1313/</link>
+        <link>https://abnerteng.github.io/</link>
         <description>Recent content on Abner Den</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 11 Mar 2024 01:44:04 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>About</title>
-        <link>http://localhost:1313/about/</link>
-        <pubDate>Mon, 11 Mar 2024 01:44:04 +0800</pubDate>
-        
-        <guid>http://localhost:1313/about/</guid>
-        <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
-&lt;p&gt;我是鄧昱辰，目前是政治大學金融學研究所的學生，同時也是&lt;a class=&#34;link&#34; href=&#34;https://ntudac.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;台大資料分析與決策社 (NTU DAC)&lt;/a&gt; 第五屆的課程長。雖然在財金相關系所打混了六年，但我對於資料科學、程式設計有極大的熱忱 (●°u°●) 」，因此我的研究領域及興趣為實證資產定價 (Empirical Asset Pricing) 以及自然語言處理 (Natural Language Processing)。除此之外，我目前正在學習網頁前後端的框架，同時也持續精進自己在機器學習領域的研究能力。歡迎各路大神指教，也歡迎有任何問題的朋友與我討論。&lt;/p&gt;
-&lt;h2 id=&#34;about-this-blog&#34;&gt;About This Blog&lt;/h2&gt;
-&lt;p&gt;其實在搭建這個以 Hugo 為基底的網站前，我已經有一個從 html5up 偷來的個人網站以及從 2021 年開始的 medium 部落格。但最近覺得，如果我可以自己建一個網站並嵌入之前寫的文章那是再好不過了。因此，這個網站的目的就是將我之前寫的文章以及未來的文章都集中在這裡。文章內容將會涵蓋資料科學、程式設計、以及我個人的一些修課、求職心得等等。希望這個網站能夠成為一個我自己的知識庫，也希望能夠幫助到有需要的人。&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>政大資科修課心得</title>
-        <link>http://localhost:1313/post/nccucs_course/</link>
-        <pubDate>Sun, 10 Mar 2024 17:59:54 +0800</pubDate>
-        
-        <guid>http://localhost:1313/post/nccucs_course/</guid>
-        <description>&lt;blockquote&gt;
-&lt;p&gt;真實修課心得，但我有時候很混，所以內容僅供參考。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;資料結構&#34;&gt;資料結構&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;修課時間：111-2&lt;/li&gt;
-&lt;li&gt;授課老師：郭桐惟&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;自然語言處理&#34;&gt;自然語言處理&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;修課時間：111-2&lt;/li&gt;
-&lt;li&gt;授課老師：黃瀚萱&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;網路搜索與探勘&#34;&gt;網路搜索與探勘&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;修課時間：112-1&lt;/li&gt;
-&lt;li&gt;授課老師：蔡銘峰&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;資料採掘&#34;&gt;資料採掘&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;修課時間：112-1&lt;/li&gt;
-&lt;li&gt;授課老師：魏綾音&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;機器學習概論&#34;&gt;機器學習概論&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;修課時間：112-1&lt;/li&gt;
-&lt;li&gt;授課老師：劉昭麟&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;資料庫系統&#34;&gt;資料庫系統&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;修課時間：112-2&lt;/li&gt;
-&lt;li&gt;授課老師：沈錳坤&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;物件導向程式設計&#34;&gt;物件導向程式設計&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;修課時間：112-2&lt;/li&gt;
-&lt;li&gt;授課老師：紀明德&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        <item>
+        <lastBuildDate>Sun, 31 Mar 2024 19:45:38 +0800</lastBuildDate><atom:link href="https://abnerteng.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>NTU DAC 第五屆課程長心得</title>
-        <link>http://localhost:1313/post/ntudac_academic/</link>
+        <link>https://abnerteng.github.io/post/ntudac_academic/</link>
         <pubDate>Sat, 09 Mar 2024 23:35:54 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/ntudac_academic/</guid>
-        <description>&lt;img src="http://localhost:1313/post/ntudac_academic/IMG_4801.JPG" alt="Featured image of post NTU DAC 第五屆課程長心得" /&gt;&lt;blockquote&gt;
+        <guid>https://abnerteng.github.io/post/ntudac_academic/</guid>
+        <description>&lt;img src="https://abnerteng.github.io/post/ntudac_academic/IMG_4801.JPG" alt="Featured image of post NTU DAC 第五屆課程長心得" /&gt;&lt;blockquote&gt;
 &lt;p&gt;以下內容為本人擔任近一年以來的真實心得，不會有任何吹捧與詆毀&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;當初會想要擔任 DAC 的課程長有幾個目的&lt;/p&gt;

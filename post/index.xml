@@ -7,6 +7,33 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Mon, 22 Apr 2024 19:41:42 +0800</lastBuildDate><atom:link href="https://abnerteng.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>永豐圖靈面試心得</title>
+        <link>https://abnerteng.github.io/post/turing_interview/</link>
+        <pubDate>Mon, 22 Apr 2024 19:41:42 +0800</pubDate>
+        
+        <guid>https://abnerteng.github.io/post/turing_interview/</guid>
+        <description>&lt;p&gt;網路上好像幾乎沒有關於圖靈計畫的面試心得，但這次面試體驗真的不錯，就想說寫下來記錄一下，也順便給想投遞的人參考。&lt;/p&gt;
+&lt;h2 id=&#34;投遞方式&#34;&gt;投遞方式&lt;/h2&gt;
+&lt;p&gt;我是在校招的時段直接從他們官網上下載資料表寄到 HR 的信箱，之前有聽說他們一年四季都會招人直到這屆招滿為止，蠻酷的。我大概是三月中投遞的履歷，隔天收到補件通知，大概一週後收到一面通知。其實效率還算蠻高的。&lt;/p&gt;
+&lt;h2 id=&#34;timeline&#34;&gt;Timeline&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;3/20 申請&lt;/li&gt;
+&lt;li&gt;3/26 一面通知&lt;/li&gt;
+&lt;li&gt;4/9 一面 &amp;amp; 二面通知&lt;/li&gt;
+&lt;li&gt;4/17 二面&lt;/li&gt;
+&lt;li&gt;4/22 發錄取通知&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;一面on-site-technical-interview&#34;&gt;一面(On site Technical Interview)&lt;/h2&gt;
+&lt;p&gt;一面大約是一個半小時，面試官是永豐的數位科技長張天豪教授、一位感覺偏 Senior 的正職以及一位 HR 。這次面試剛好只有我一位面試者（聽說之前都會有超過一位），所以時間抓得比較鬆，光自我介紹環節就講掉十幾分鐘了ㄅ XDD，中途問的東西其實蠻細的比如我寫說會從上一份實習離職是因為「個人生涯規劃」，他們還特別問了一下是什麼樣的生涯規劃。接下來就是專案介紹環節，我選了三個跟機器學習、推薦系統相關的專案，這部分就是順順的帶過去，因為對專案都蠻熟悉的所以被問問題的時候其實也都沒有遲疑。最後一個環節就蠻特別的，有別於大部分的 coding test 是以算法題為主，圖靈的 coding test 是 base on 你自己的專案，教授會直接請你延伸出某個東西（像我被問到的就是希望可以算出某兩個東西的分配以及敘述統計量以證明這兩項是真的有差異的），時間大約是 10 - 15 分鐘，HR 會計時，所以其實蠻緊張的，在寫的當下教授也會透過投影的螢幕去看你寫的過程（所以其實沒寫完或沒寫出來也沒關係，寫的過程在他們眼裡是 ok 的應該就行，因為我沒寫完XD，主要是因為原本的 coding style 有點糟糕，class 的 input 已經鎖住 data type 是 string, a.k.a 我當初使用的 data 的 path，所以遇到這種需要生成模擬資料直接傳 array 進去的就直接爆炸，導致我大概有一半的時間在試著 refactor 主程式，然後這也被教授看出來了，超狠）。最後就是我提問的環節，這部分我覺得很用心的點是他們還有準備投影片介紹自己的單位，而且都講得很詳細。&lt;/p&gt;
+&lt;h2 id=&#34;二面on-site-behavioral-interview&#34;&gt;二面(On site Behavioral Interview)&lt;/h2&gt;
+&lt;p&gt;一面過後大概一小時就收到二面邀請（事後教授有說是因為時間剛好所以才這麼快），二面有三個面試者與三個面試官，而第一關有出現的張天豪教授也有在現場。二面基本上就沒有技術問題了，基本上都是 behavioral 的問題，面試官除了針對履歷上寫的內容進行提問之外，也會問一些類似面 MA 才會出現的問題（舉一個科技與金融結合的例子），整體面試的感覺蠻像在聊天的，沒有什麼壓力，目的應該就是要確認你的動機以及人個特質有沒有跟這個 team 符合吧！&lt;/p&gt;
+&lt;h2 id=&#34;收-offer&#34;&gt;收 offer&lt;/h2&gt;
+&lt;p&gt;二面後大概五天我就收到了錄取通知（真的超快）。目前還在核薪以及討論兵役該如何處理的階段。&lt;/p&gt;
+&lt;h2 id=&#34;後記&#34;&gt;後記&lt;/h2&gt;
+&lt;p&gt;真的很感謝張天豪老師願意收留我這個跨領域跨到天邊的人，其實在二面後真的蠻沒有把握自己會錄取（同場的面試者都是本科系碩班畢業），但好險還是上了，也算是為碩班這兩年生活畫上完美的句點。&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>LaTeX Basic</title>
         <link>https://abnerteng.github.io/post/latex-basic/</link>
         <pubDate>Sun, 31 Mar 2024 19:45:38 +0800</pubDate>

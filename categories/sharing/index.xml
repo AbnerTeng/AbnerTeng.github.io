@@ -6,7 +6,33 @@
         <description>Recent content in Sharing on Abner Den</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 22 Apr 2024 19:41:42 +0800</lastBuildDate><atom:link href="https://abnerteng.github.io/categories/sharing/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 14 May 2024 14:25:02 +0800</lastBuildDate><atom:link href="https://abnerteng.github.io/categories/sharing/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Kronos Summer Analyst 面試心得</title>
+        <link>https://abnerteng.github.io/post/kronos_interview/</link>
+        <pubDate>Tue, 14 May 2024 14:25:02 +0800</pubDate>
+        
+        <guid>https://abnerteng.github.io/post/kronos_interview/</guid>
+        <description>&lt;img src="https://abnerteng.github.io/post/kronos_interview/quant.jpeg" alt="Featured image of post Kronos Summer Analyst 面試心得" /&gt;&lt;p&gt;會想記錄 kronos 的面試心得是因為我真的覺得太難得了，其實去年就有收到 2023 Summer Analyst 的 OA，但自知實力不足所以沒寫，今年也只是抱著試試看的心態寫完 OA，沒想到就這樣給我進到 Group Interview 了。&lt;/p&gt;
+&lt;h2 id=&#34;投遞方式--timeline&#34;&gt;投遞方式 &amp;amp; Timeline&lt;/h2&gt;
+&lt;p&gt;我是直接從他們官網投，大概是二月底投的，一個月後（大概三月底）收到 OA 通知，趁著清明連假把 OA 匆匆做完大約兩週後就收到團面邀請了。團面時間是五月初，當天 HR 有說一週後無論有沒有進下一輪都會通知，在五月中確定沒過，但團面時有 reveal 後續的 timeline，大約是五月中 tech interview &amp;amp; 五月底 team matching。&lt;/p&gt;
+&lt;h2 id=&#34;online-assessment-hackerrank&#34;&gt;Online Assessment (HackerRank)&lt;/h2&gt;
+&lt;p&gt;OA 的時間是 120 分鐘，總共兩題選擇題配上五題 coding。&lt;/p&gt;
+&lt;h3 id=&#34;選擇題&#34;&gt;選擇題&lt;/h3&gt;
+&lt;p&gt;今年兩題選擇題都是 Linear Regression 相關的題目，我自己覺得不難，但也有可能是因為上過兩年計量的關係。&lt;/p&gt;
+&lt;h3 id=&#34;coding&#34;&gt;Coding&lt;/h3&gt;
+&lt;p&gt;我不確定講得太詳細會不會出事，所以保險起見我就大概提一下。&lt;/p&gt;
+&lt;p&gt;印象中（已經過太久了有點忘記）有一題是機率題，兩題 Bitwise operation 配上 array，一題是 graph，最後一題是偏 System Design 的題目。前四題都可以用各種語言寫（我是用 Python），最後一題只能用 C++ 寫。&lt;/p&gt;
+&lt;p&gt;整體來說平均難度大概落在 medium 左右，但是 120 分鐘對我來說還是有點趕，最後只有寫完五題（還是太爛了，後來團面有跟其他面試者聊到 OA，好像一部分的人是寫出六題。）&lt;/p&gt;
+&lt;h2 id=&#34;group-interview&#34;&gt;Group Interview&lt;/h2&gt;
+&lt;p&gt;團面真的是印象非常深刻，簽到的時候就被嚇到，一整排台清交資工，就我一個政大在那邊醜&amp;hellip;&lt;/p&gt;
+&lt;p&gt;團面的流程是兩個小遊戲配上辦公室參觀，第一個是用撲克牌玩賭博遊戲，規則上來說就是用盡切方法把比大小玩到淋漓盡致（聽說賭博默示錄有一集的內容跟這遊戲雷同）。第二個是情境遊戲，在太空船壞掉的情況下要走到救援隊那邊，並將 15 種物品依重要程度排序，有分個人排序以及小組排序，先代稱 $\hat{y}_1$ 以及 $\hat{y}_2$ 好了，最後算分方式是分別與 NASA 提供的 $y$ 計算 MAE，MAE 最小的獲勝。&lt;/p&gt;
+&lt;p&gt;團面給我的感覺就是 kronos 給面試者一個機會認識其他也有進團面的大神（大家真的都大神，甚至還有 ACM ICPC 拿牌的，而我啥都沒），並且看看你是不是一個好的 team player，所以我覺得團面的重點除了贏，另外就是要好好在過程中表現自己的特質。&lt;/p&gt;
+&lt;p&gt;最後還收到 kronos 準備的小禮物以及餐盒（還有遊戲得名的藍芽喇叭）&lt;/p&gt;
+&lt;h2 id=&#34;後記&#34;&gt;後記&lt;/h2&gt;
+&lt;p&gt;因為面完團面就確定被刷掉ㄌ，所以沒有後續 tech interview 以及 team matching 的心得，但我覺得 kronos 的團面真的是一個很特別也很有趣的經驗，也讓我更加了解自己在 coding 這部分的確還有很大的進步空間，希望幾年後可以挑戰成功 XD。&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>永豐圖靈面試心得</title>
         <link>https://abnerteng.github.io/post/turing_interview/</link>
         <pubDate>Mon, 22 Apr 2024 19:41:42 +0800</pubDate>

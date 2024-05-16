@@ -1,21 +1,43 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
     <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset='utf-8'>
-<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content='About Me I&amp;rsquo;m Yu-Chen Den（鄧昱辰）, a second year master student in the Department of Money and Banking at National Chengchi University，and I&amp;rsquo;m also one of the Director of Academic Affairs in National Taiwan University Data Analytics Club (NTU DAC) 。Based on my interest in finance, computer science and artificial intelligence, my research fields and interests are Empirical Asset Pricing, Natural Language Processing, and Recommendation Systems.
-News [2024 Jul]: I will start my machine learning engineer at Turing Team, SinoPac Holdings.'>
-<title>About</title>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content='會想記錄 kronos 的面試心得是因為我真的覺得太難得了，其實去年就有收到 2023 Summer Analyst 的 OA，但自知實力不足所以沒寫，今年也只是抱著試試看的心態寫完 OA，沒想到就這樣給我進到 Group Interview 了。
+投遞方式 &amp;amp; Timeline 我是直接從他們官網投，大概是二月底投的，一個月後（大概三月底）收到 OA 通知，趁著清明連假把 OA 匆匆做完大約兩週後就收到團面邀請了。團面時間是五月初，當天 HR 有說一週後無論有沒有進下一輪都會通知，在五月中確定沒過，但團面時有 reveal 後續的 timeline，大約是五月中 tech interview &amp;amp; 五月底 team matching。
+Online Assessment (HackerRank) OA 的時間是 120 分鐘，總共兩題選擇題配上五題 coding。
+選擇題 今年兩題選擇題都是 Linear Regression 相關的題目，我自己覺得不難，但也有可能是因為上過兩年計量的關係。
+Coding 我不確定講得太詳細會不會出事，所以保險起見我就大概提一下。
+印象中（已經過太久了有點忘記）有一題是機率題，兩題 Bitwise operation 配上 array，一題是 graph，最後一題是偏 System Design 的題目。前四題都可以用各種語言寫（我是用 Python），最後一題只能用 C&#43;&#43; 寫。
+整體來說平均難度大概落在 medium 左右，但是 120 分鐘對我來說還是有點趕，最後只有寫完五題（還是太爛了，後來團面有跟其他面試者聊到 OA，好像一部分的人是寫出六題。）
+Group Interview 團面真的是印象非常深刻，簽到的時候就被嚇到，一整排台清交資工，就我一個政大在那邊醜&amp;hellip;
+團面的流程是兩個小遊戲配上辦公室參觀，第一個是用撲克牌玩賭博遊戲，規則上來說就是用盡切方法把比大小玩到淋漓盡致（聽說賭博默示錄有一集的內容跟這遊戲雷同）。第二個是情境遊戲，在太空船壞掉的情況下要走到救援隊那邊，並將 15 種物品依重要程度排序，有分個人排序以及小組排序，先代稱 $\hat{y}_1$ 以及 $\hat{y}_2$ 好了，最後算分方式是分別與 NASA 提供的 $y$ 計算 MAE，MAE 最小的獲勝。'>
+<title>Kronos Summer Analyst 面試心得</title>
 
-<link rel='canonical' href='http://localhost:1313/about/'>
+<link rel='canonical' href='http://localhost:1313/post/kronos_interview/'>
 
-<link rel="stylesheet" href="/scss/style.min.abbd69b2908fdfcd5179898beaafd374514a86538d81639ddd2c58c06ae54e40.css"><meta property='og:title' content='About'>
-<meta property='og:description' content='About Me I&amp;rsquo;m Yu-Chen Den（鄧昱辰）, a second year master student in the Department of Money and Banking at National Chengchi University，and I&amp;rsquo;m also one of the Director of Academic Affairs in National Taiwan University Data Analytics Club (NTU DAC) 。Based on my interest in finance, computer science and artificial intelligence, my research fields and interests are Empirical Asset Pricing, Natural Language Processing, and Recommendation Systems.
-News [2024 Jul]: I will start my machine learning engineer at Turing Team, SinoPac Holdings.'>
-<meta property='og:url' content='http://localhost:1313/about/'>
+<link rel="stylesheet" href="/scss/style.min.abbd69b2908fdfcd5179898beaafd374514a86538d81639ddd2c58c06ae54e40.css"><meta property='og:title' content='Kronos Summer Analyst 面試心得'>
+<meta property='og:description' content='會想記錄 kronos 的面試心得是因為我真的覺得太難得了，其實去年就有收到 2023 Summer Analyst 的 OA，但自知實力不足所以沒寫，今年也只是抱著試試看的心態寫完 OA，沒想到就這樣給我進到 Group Interview 了。
+投遞方式 &amp;amp; Timeline 我是直接從他們官網投，大概是二月底投的，一個月後（大概三月底）收到 OA 通知，趁著清明連假把 OA 匆匆做完大約兩週後就收到團面邀請了。團面時間是五月初，當天 HR 有說一週後無論有沒有進下一輪都會通知，在五月中確定沒過，但團面時有 reveal 後續的 timeline，大約是五月中 tech interview &amp;amp; 五月底 team matching。
+Online Assessment (HackerRank) OA 的時間是 120 分鐘，總共兩題選擇題配上五題 coding。
+選擇題 今年兩題選擇題都是 Linear Regression 相關的題目，我自己覺得不難，但也有可能是因為上過兩年計量的關係。
+Coding 我不確定講得太詳細會不會出事，所以保險起見我就大概提一下。
+印象中（已經過太久了有點忘記）有一題是機率題，兩題 Bitwise operation 配上 array，一題是 graph，最後一題是偏 System Design 的題目。前四題都可以用各種語言寫（我是用 Python），最後一題只能用 C&#43;&#43; 寫。
+整體來說平均難度大概落在 medium 左右，但是 120 分鐘對我來說還是有點趕，最後只有寫完五題（還是太爛了，後來團面有跟其他面試者聊到 OA，好像一部分的人是寫出六題。）
+Group Interview 團面真的是印象非常深刻，簽到的時候就被嚇到，一整排台清交資工，就我一個政大在那邊醜&amp;hellip;
+團面的流程是兩個小遊戲配上辦公室參觀，第一個是用撲克牌玩賭博遊戲，規則上來說就是用盡切方法把比大小玩到淋漓盡致（聽說賭博默示錄有一集的內容跟這遊戲雷同）。第二個是情境遊戲，在太空船壞掉的情況下要走到救援隊那邊，並將 15 種物品依重要程度排序，有分個人排序以及小組排序，先代稱 $\hat{y}_1$ 以及 $\hat{y}_2$ 好了，最後算分方式是分別與 NASA 提供的 $y$ 計算 MAE，MAE 最小的獲勝。'>
+<meta property='og:url' content='http://localhost:1313/post/kronos_interview/'>
 <meta property='og:site_name' content='Abner Den'>
-<meta property='og:type' content='article'><meta property='article:section' content='' /><meta property='article:published_time' content='2024-03-11T01:44:04&#43;08:00'/><meta property='article:modified_time' content='2024-03-11T01:44:04&#43;08:00'/>
-<meta name="twitter:title" content="About">
-<meta name="twitter:description" content="About Me I&amp;rsquo;m Yu-Chen Den（鄧昱辰）, a second year master student in the Department of Money and Banking at National Chengchi University，and I&amp;rsquo;m also one of the Director of Academic Affairs in National Taiwan University Data Analytics Club (NTU DAC) 。Based on my interest in finance, computer science and artificial intelligence, my research fields and interests are Empirical Asset Pricing, Natural Language Processing, and Recommendation Systems.
-News [2024 Jul]: I will start my machine learning engineer at Turing Team, SinoPac Holdings.">
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:published_time' content='2024-05-14T14:25:02&#43;08:00'/><meta property='article:modified_time' content='2024-05-14T14:25:02&#43;08:00'/><meta property='og:image' content='http://localhost:1313/post/kronos_interview/quant.jpeg' />
+<meta name="twitter:title" content="Kronos Summer Analyst 面試心得">
+<meta name="twitter:description" content="會想記錄 kronos 的面試心得是因為我真的覺得太難得了，其實去年就有收到 2023 Summer Analyst 的 OA，但自知實力不足所以沒寫，今年也只是抱著試試看的心態寫完 OA，沒想到就這樣給我進到 Group Interview 了。
+投遞方式 &amp;amp; Timeline 我是直接從他們官網投，大概是二月底投的，一個月後（大概三月底）收到 OA 通知，趁著清明連假把 OA 匆匆做完大約兩週後就收到團面邀請了。團面時間是五月初，當天 HR 有說一週後無論有沒有進下一輪都會通知，在五月中確定沒過，但團面時有 reveal 後續的 timeline，大約是五月中 tech interview &amp;amp; 五月底 team matching。
+Online Assessment (HackerRank) OA 的時間是 120 分鐘，總共兩題選擇題配上五題 coding。
+選擇題 今年兩題選擇題都是 Linear Regression 相關的題目，我自己覺得不難，但也有可能是因為上過兩年計量的關係。
+Coding 我不確定講得太詳細會不會出事，所以保險起見我就大概提一下。
+印象中（已經過太久了有點忘記）有一題是機率題，兩題 Bitwise operation 配上 array，一題是 graph，最後一題是偏 System Design 的題目。前四題都可以用各種語言寫（我是用 Python），最後一題只能用 C&#43;&#43; 寫。
+整體來說平均難度大概落在 medium 左右，但是 120 分鐘對我來說還是有點趕，最後只有寫完五題（還是太爛了，後來團面有跟其他面試者聊到 OA，好像一部分的人是寫出六題。）
+Group Interview 團面真的是印象非常深刻，簽到的時候就被嚇到，一整排台清交資工，就我一個政大在那邊醜&amp;hellip;
+團面的流程是兩個小遊戲配上辦公室參觀，第一個是用撲克牌玩賭博遊戲，規則上來說就是用盡切方法把比大小玩到淋漓盡致（聽說賭博默示錄有一集的內容跟這遊戲雷同）。第二個是情境遊戲，在太空船壞掉的情況下要走到救援隊那邊，並將 15 種物品依重要程度排序，有分個人排序以及小組排序，先代稱 $\hat{y}_1$ 以及 $\hat{y}_2$ 好了，最後算分方式是分別與 NASA 提供的 $y$ 計算 MAE，MAE 最小的獲勝。"><meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content='http://localhost:1313/post/kronos_interview/quant.jpeg' />
     <link rel="shortcut icon" href="/img/logo.png" />
 
     </head>
@@ -224,15 +246,39 @@ News [2024 Jul]: I will start my machine learning engineer at Turing Team, SinoP
     
 
             <main class="main full-width">
-    <article class="main-article">
+    <article class="has-image main-article">
     <header class="article-header">
+        <div class="article-image">
+            <a href="/post/kronos_interview/">
+                <img src="/post/kronos_interview/quant_hu91455cf6fe8573f1e918f3155c0059df_6508_800x0_resize_q75_box.jpeg"
+                        srcset="/post/kronos_interview/quant_hu91455cf6fe8573f1e918f3155c0059df_6508_800x0_resize_q75_box.jpeg 800w, /post/kronos_interview/quant_hu91455cf6fe8573f1e918f3155c0059df_6508_1600x0_resize_q75_box.jpeg 1600w"
+                        width="800" 
+                        height="516" 
+                        loading="lazy"
+                        alt="Featured image of post Kronos Summer Analyst 面試心得" />
+                
+            </a>
+        </div>
+    
 
     <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/sharing/" >
+                Sharing
+            </a>
+        
+            <a href="/categories/career/" >
+                Career
+            </a>
+        
+    </header>
     
 
     <div class="article-title-wrapper">
         <h2 class="article-title">
-            <a href="/about/">About</a>
+            <a href="/post/kronos_interview/">Kronos Summer Analyst 面試心得</a>
         </h2>
     
         
@@ -254,7 +300,7 @@ News [2024 Jul]: I will start my machine learning engineer at Turing Team, SinoP
   <path d="M3 11h16" />
   <path d="M18 16.496v1.504l1 1" />
 </svg>
-                <time class="article-time--published">Mar 11, 2024</time>
+                <time class="article-time--published">May 14, 2024</time>
             </div>
         
 
@@ -269,7 +315,7 @@ News [2024 Jul]: I will start my machine learning engineer at Turing Team, SinoP
 
 
                 <time class="article-time--reading">
-                    2 minute read
+                    1 minute read
                 </time>
             </div>
         
@@ -284,44 +330,24 @@ News [2024 Jul]: I will start my machine learning engineer at Turing Team, SinoP
     <section class="article-content">
     
     
-    <h2 id="about-me">About Me</h2>
-<p>I&rsquo;m Yu-Chen Den（鄧昱辰）, a second year master student in the <a class="link" href="https://banking.nccu.edu.tw/"  target="_blank" rel="noopener"
-    >Department of Money and Banking at National Chengchi University</a>，and I&rsquo;m also one of the Director of Academic Affairs in <a class="link" href="https://ntudac.com/"  target="_blank" rel="noopener"
-    >National Taiwan University Data Analytics Club (NTU DAC)</a> 。Based on my interest in finance, computer science and artificial intelligence, my research fields and interests are <strong>Empirical Asset Pricing</strong>, <strong>Natural Language Processing</strong>, and <strong>Recommendation Systems</strong>.</p>
-<h3 id="news">News</h3>
-<ol>
-<li>[2024 Jul]: I will start my machine learning engineer at <strong>Turing Team, SinoPac Holdings</strong>.</li>
-<li>[2024 May]: My Ph.D. application to the <strong>Department of Computer Science &amp; Information Engineering, National Taiwan University</strong> is accepted.</li>
-<li>[2024 Mar]: One paper is accepted by <strong>FeAT 2024</strong> @ Taipei.</li>
-</ol>
-<h3 id="personal-infos">Personal Infos</h3>
-<p><strong>Education</strong></p>
-<ul>
-<li>M.S. @ Money &amp; Banking, National Chengchi University (NCCU) ||  22.09 - 24.06</li>
-<li>B.A. @ Public Finance, National Chengchi University (NCCU)  ||  18.09 - 22.06</li>
-</ul>
-<p><strong>Working Experience</strong></p>
-<ul>
-<li>Machine Learning Engineer @ Turing Team, SinoPac Holdings ||  24.07 -</li>
-<li>Graduate Research Assistant @ NCCU  || 23.11 - 24.06</li>
-<li>Data Scientist Intern @ AI Team, iKala Interactive Media Inc. || 23.03 - 23.11</li>
-<li>Research Consultant Intern @ WorldQuant LLC. ||  22.11 - 23.03</li>
-</ul>
-<p><strong>Academic Club</strong></p>
-<ul>
-<li>5th Director of Academic Affairs @ NTU DAC ||  23.06 - 24.06</li>
-<li>23th Mentor @ Algorithm Trading, TMBA  ||  23.07 - 24.03</li>
-</ul>
-<p><strong>Teaching Experience</strong></p>
-<ul>
-<li>Python Data Analysis Workshop (I)(II) @ NTU DAC</li>
-<li>Text Mining Workshop @ NTU DAC</li>
-<li>Computer Programming Teaching Assistant @ NCCU</li>
-<li>Econometrics Teaching Assistant @ NCCU</li>
-<li>Financial Econometrics &amp; Machine Learning Teaching Assistant @ NCCU</li>
-</ul>
-<h2 id="about-this-blog">About This Blog</h2>
-<p>其實在搭建這個以 Hugo 為基底的網站前，我已經有一個從 html5up 偷來的個人網站以及從 2021 年開始的 medium 部落格。但最近覺得，如果我可以自己建一個網站並嵌入之前寫的文章那是再好不過了。因此，這個網站的目的就是將我之前寫的文章以及未來的文章都集中在這裡。文章內容將會涵蓋資料科學、程式設計、以及我個人的一些修課、求職心得等等。希望這個網站能夠成為一個我自己的知識庫，也希望能夠幫助到有需要的人。</p>
+    <p>會想記錄 kronos 的面試心得是因為我真的覺得太難得了，其實去年就有收到 2023 Summer Analyst 的 OA，但自知實力不足所以沒寫，今年也只是抱著試試看的心態寫完 OA，沒想到就這樣給我進到 Group Interview 了。</p>
+<h2 id="投遞方式--timeline">投遞方式 &amp; Timeline</h2>
+<p>我是直接從他們官網投，大概是二月底投的，一個月後（大概三月底）收到 OA 通知，趁著清明連假把 OA 匆匆做完大約兩週後就收到團面邀請了。團面時間是五月初，當天 HR 有說一週後無論有沒有進下一輪都會通知，在五月中確定沒過，但團面時有 reveal 後續的 timeline，大約是五月中 tech interview &amp; 五月底 team matching。</p>
+<h2 id="online-assessment-hackerrank">Online Assessment (HackerRank)</h2>
+<p>OA 的時間是 120 分鐘，總共兩題選擇題配上五題 coding。</p>
+<h3 id="選擇題">選擇題</h3>
+<p>今年兩題選擇題都是 Linear Regression 相關的題目，我自己覺得不難，但也有可能是因為上過兩年計量的關係。</p>
+<h3 id="coding">Coding</h3>
+<p>我不確定講得太詳細會不會出事，所以保險起見我就大概提一下。</p>
+<p>印象中（已經過太久了有點忘記）有一題是機率題，兩題 Bitwise operation 配上 array，一題是 graph，最後一題是偏 System Design 的題目。前四題都可以用各種語言寫（我是用 Python），最後一題只能用 C++ 寫。</p>
+<p>整體來說平均難度大概落在 medium 左右，但是 120 分鐘對我來說還是有點趕，最後只有寫完五題（還是太爛了，後來團面有跟其他面試者聊到 OA，好像一部分的人是寫出六題。）</p>
+<h2 id="group-interview">Group Interview</h2>
+<p>團面真的是印象非常深刻，簽到的時候就被嚇到，一整排台清交資工，就我一個政大在那邊醜&hellip;</p>
+<p>團面的流程是兩個小遊戲配上辦公室參觀，第一個是用撲克牌玩賭博遊戲，規則上來說就是用盡切方法把比大小玩到淋漓盡致（聽說賭博默示錄有一集的內容跟這遊戲雷同）。第二個是情境遊戲，在太空船壞掉的情況下要走到救援隊那邊，並將 15 種物品依重要程度排序，有分個人排序以及小組排序，先代稱 $\hat{y}_1$ 以及 $\hat{y}_2$ 好了，最後算分方式是分別與 NASA 提供的 $y$ 計算 MAE，MAE 最小的獲勝。</p>
+<p>團面給我的感覺就是 kronos 給面試者一個機會認識其他也有進團面的大神（大家真的都大神，甚至還有 ACM ICPC 拿牌的，而我啥都沒），並且看看你是不是一個好的 team player，所以我覺得團面的重點除了贏，另外就是要好好在過程中表現自己的特質。</p>
+<p>最後還收到 kronos 準備的小禮物以及餐盒（還有遊戲得名的藍芽喇叭）</p>
+<h2 id="後記">後記</h2>
+<p>因為面完團面就確定被刷掉ㄌ，所以沒有後續 tech interview 以及 team matching 的心得，但我覺得 kronos 的團面真的是一個很特別也很有趣的經驗，也讓我更加了解自己在 coding 這部分的確還有很大的進步空間，希望幾年後可以挑戰成功 XD。</p>
 
 </section>
 

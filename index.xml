@@ -6,7 +6,76 @@
         <description>Recent content on Abner Den</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 31 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://abnerteng.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 05 Jul 2024 13:26:04 +0800</lastBuildDate><atom:link href="https://abnerteng.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Resources</title>
+        <link>https://abnerteng.github.io/resources/</link>
+        <pubDate>Fri, 05 Jul 2024 13:26:04 +0800</pubDate>
+        
+        <guid>https://abnerteng.github.io/resources/</guid>
+        <description>&lt;p&gt;I&amp;rsquo;m committed to making all my resources open-source and free to access for everyone who loves machine learning, quantitative finance, and programming.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Table of Contents&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#coding-style-manual-for-python-beginners&#34; &gt;Coding Style Manual for Python Beginners&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#latex-templates&#34; &gt;$\LaTeX$ Templates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#quantitative-finance&#34; &gt;Quantitative Finance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#lecture-slides&#34; &gt;Lecture Slides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;coding-style-manual-for-python-beginners&#34;&gt;Coding Style Manual for Python Beginners&lt;/h3&gt;
+&lt;p&gt;Coming soon&amp;hellip;&lt;/p&gt;
+&lt;h3 id=&#34;latex-templates&#34;&gt;$\LaTeX$ Templates&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/AbnerTeng/LaTeX-templates&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Repository&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;quantitative-finance&#34;&gt;Quantitative Finance&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/AbnerTeng/Quant-Finance/tree/master/HWs&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;CTA Strategy for Beginners (HWs for mentees @ TMBA ATD)&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/AbnerTeng/Quant-Finance/wiki/Homework-Instructions&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Homework Instructions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;lecture-slides&#34;&gt;Lecture Slides&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;(Workshop) Introduction to Text Mining and Natural Language Processing, Spring 2024&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/presentation/d/1R_OlylidKAzj6d7jgHbmmUlMF86pCNoaMICYLjT55jU/edit?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;.&#34; &gt;Videos (Coming Soon)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;(Workshop) Python for Data Analysis (I), Fall 2023&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://drive.google.com/drive/folders/1RH8rHxipd9t0jeLrPxG9Uvvm-7bkxx3z?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Colab Notebooks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;(Workshop) Python for Data Analysis (II), Spring 2024&lt;sup id=&#34;fnref1:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://drive.google.com/drive/folders/1JQFDN-rZQMW7qamagCH4lVoz-DWDtbZY?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Colab Notebooks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Special thanks to my girlfriend &lt;a class=&#34;link&#34; href=&#34;https://www.linkedin.com/in/meng-chun-you/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Meng-Chun (Angela) You&lt;/a&gt; for helding the workshops with me ♡.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref1:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        </item>
+        <item>
         <title>2024 面試心得總結</title>
         <link>https://abnerteng.github.io/post/interviews/</link>
         <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>

@@ -6,7 +6,51 @@
         <description>Recent content on Abner Den</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 05 Aug 2024 21:59:02 +0800</lastBuildDate><atom:link href="https://abnerteng.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 04 Sep 2024 11:20:04 +0800</lastBuildDate><atom:link href="https://abnerteng.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>24FW Machine Learning in Finance / Trading</title>
+        <link>https://abnerteng.github.io/24fw_ml_finance/</link>
+        <pubDate>Wed, 04 Sep 2024 11:20:04 +0800</pubDate>
+        
+        <guid>https://abnerteng.github.io/24fw_ml_finance/</guid>
+        <description>&lt;p&gt;Description: Page for 24FW TMBA Department of Algorithmic Trading. Including resources, timeline, and other information.&lt;/p&gt;
+&lt;p&gt;Mentor: Yu-Chen (Abner) Den&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;group-information&#34;&gt;Group Information&lt;/h3&gt;
+&lt;h3 id=&#34;announcement&#34;&gt;Announcement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2024-09-04: Welcome to the 24FW Machine Learning in Finance / Trading page!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Table of Contents&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#timeline&#34; &gt;Timeline&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#resources&#34; &gt;Resources&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;timeline&#34;&gt;Timeline&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Date&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Topic&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Duration&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Sep 25th&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Introduction, Topic Choosing&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1hr&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Python &amp;amp; Engineering&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trading&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Machine Learning / Deep Learning models&lt;/strong&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Resources</title>
         <link>https://abnerteng.github.io/resources/</link>
         <pubDate>Fri, 05 Jul 2024 13:26:04 +0800</pubDate>

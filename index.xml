@@ -661,6 +661,56 @@
 </description>
         </item>
         <item>
+        <title>About</title>
+        <link>https://abnerteng.github.io/about/</link>
+        <pubDate>Mon, 11 Mar 2024 01:44:04 +0800</pubDate>
+        
+        <guid>https://abnerteng.github.io/about/</guid>
+        <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m Yu-Chen (Abner) Den (鄧昱辰), currently a machine learning engineer @ SinoPac Holdings, I&amp;rsquo;m also a first-year Ph.D student @ Graduate Institute of Networking &amp;amp; Multimedia (GINM) @ NTU, but I have postponed the degree because I want to work first XDD.&lt;/p&gt;
+&lt;p&gt;Based on my past experiences in Financial Engineering, my research interests are Empirical Asset Pricing with Machine Learning Approach. But I&amp;rsquo;m now focusing on and learning Natural Language Processing, Information Retrieval, and Machine Learning System Design.&lt;/p&gt;
+&lt;p&gt;Besides work, I enjoy playing basketball, fitness, traveling, reading, and playing guitar.&lt;/p&gt;
+&lt;h3 id=&#34;news&#34;&gt;News&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;[2024 Jul]: I will continue my 2nd year mentor at &lt;strong&gt;Algorithm Trading Team, TMBA&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;[2024 Jul]: I will start my machine learning engineer at &lt;strong&gt;AI Lab, SinoPac Holdings&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;[2024 May]: My Ph.D. application to the &lt;strong&gt;Graduate Institute of Networking &amp;amp; Multimedia (GINM)&lt;/strong&gt; and &lt;strong&gt;Computer Science &amp;amp; Information Ingineering (CSIE)&lt;/strong&gt; @ &lt;strong&gt;National Taiwan University&lt;/strong&gt; is accepted.&lt;/li&gt;
+&lt;li&gt;[2024 Mar]: One paper is accepted by &lt;strong&gt;FeAT 2024&lt;/strong&gt; @ Taipei.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;personal-infos&#34;&gt;Personal Infos&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ph.D. student @ GINM, National Taiwan University (NTU) || 24.09 - Present (Postponed)&lt;/li&gt;
+&lt;li&gt;M.S. @ Money &amp;amp; Banking, National Chengchi University (NCCU) ||  22.09 - 24.06&lt;/li&gt;
+&lt;li&gt;B.A. @ Public Finance, National Chengchi University (NCCU)  ||  18.09 - 22.06&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Working Experience&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Machine Learning Engineer @ Turing Team, SinoPac Holdings || 24.07 - Present&lt;/li&gt;
+&lt;li&gt;Graduate Research Assistant @ NCCU  || 23.11 - 24.06&lt;/li&gt;
+&lt;li&gt;Data Scientist Intern @ AI Team, iKala Interactive Media Inc. || 23.03 - 23.11&lt;/li&gt;
+&lt;li&gt;Research Consultant Intern @ WorldQuant LLC. ||  22.11 - 23.03&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Academic Club&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;24, 25th Mentor @ Algorithm Trading team, TMBA || 23.07 - Present&lt;/li&gt;
+&lt;li&gt;5th Director of Academic Affairs @ NTU DAC ||  23.06 - 24.06&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Teaching Experience&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Python Data Analysis Workshop (I)(II) @ NTU DAC&lt;/li&gt;
+&lt;li&gt;Text Mining Workshop @ NTU DAC&lt;/li&gt;
+&lt;li&gt;Computer Programming Teaching Assistant @ NCCU&lt;/li&gt;
+&lt;li&gt;Econometrics Teaching Assistant @ NCCU&lt;/li&gt;
+&lt;li&gt;Financial Econometrics &amp;amp; Machine Learning Teaching Assistant @ NCCU&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;about-this-blog&#34;&gt;About This Blog&lt;/h2&gt;
+&lt;p&gt;其實在搭建這個以 Hugo 為基底的網站前，我已經有一個從 html5up 偷來的個人網站以及從 2021 年開始的 medium 部落格。但最近覺得，如果我可以自己建一個網站並嵌入之前寫的文章那是再好不過了。因此，這個網站的目的就是將我之前寫的文章以及未來的文章都集中在這裡。文章內容將會涵蓋資料科學、程式設計、以及我個人的一些修課、求職心得等等。希望這個網站能夠成為一個我自己的知識庫，也希望能夠幫助到有需要的人。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Special thanks to Angela (游孟純) for always supporting me &amp;lt;3&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>NTU DAC 第五屆課程長心得</title>
         <link>https://abnerteng.github.io/post/ntudac_academic/</link>
         <pubDate>Sat, 09 Mar 2024 23:35:54 +0800</pubDate>

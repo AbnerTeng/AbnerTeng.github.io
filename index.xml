@@ -6,7 +6,46 @@
         <description>Recent content on Abner Den</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 04 Sep 2024 11:20:04 +0800</lastBuildDate><atom:link href="https://abnerteng.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 28 Sep 2024 20:22:54 +0800</lastBuildDate><atom:link href="https://abnerteng.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>政大資科修課心得</title>
+        <link>https://abnerteng.github.io/post/nccucs_course/</link>
+        <pubDate>Sat, 28 Sep 2024 20:22:54 +0800</pubDate>
+        
+        <guid>https://abnerteng.github.io/post/nccucs_course/</guid>
+        <description>&lt;img src="https://abnerteng.github.io/post/nccucs_course/nccu.jpg" alt="Featured image of post 政大資科修課心得" /&gt;&lt;blockquote&gt;
+&lt;p&gt;真實修課心得，但我有時候很混，所以內容僅供參考。旁聽就不列上來了，有時沒去上沒參考價值。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;這是我碩班兩年在政大資科選修過的部分課程（比較有記憶點的），先講一下自己在上這些課程前的背景以及相關能力到哪，想說可以給大家一個依據。我在大學的時候幾乎沒有修過「純」程式語言相關的課程，跟程式比較沾的上邊的大概是金融系的計程（棄修）、經濟系的 R 語言與資料分析，就這樣。剩下的所需技能都在大四之後靠自學學起來的，比如說 Python, SQL, 機器學習等等。但其實大概也就摸過了不起一年吧！相較於其他人的優勢大概就數學好一點而已 XD&lt;/p&gt;
+&lt;h2 id=&#34;自然語言處理&#34;&gt;自然語言處理&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;修課時間：111-2&lt;/li&gt;
+&lt;li&gt;授課老師：黃瀚萱&lt;/li&gt;
+&lt;li&gt;Loading: 3 / 5&lt;/li&gt;
+&lt;li&gt;Prerequisite: Python, ML, statistics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;第一次知道政大有開 NLP 的時候真的是又驚又喜，因為一直對這個領域蠻有興趣的，也希望可以透過課堂做一個期末專題出來。這堂課會從最傳統的 text mining 開始講起（是真的蠻古早的那些，但也是現在 NLP 的基礎），比如說各種 text preprocessing 方法，POS Tagging，Semantic Parsing，TF-IDF 等等。之後就會是 BOW, Word2Vec, RNN, Transformer, BERT 等模型。老師在傳統方法上真的會花很多時間講背後的理論，但到了開始用 ML / DL 做 NLP 的這部分就快很多（畢竟這個領域進步得太快，全部都要細講的話絕對會講不完 XD）。但我覺得不錯的點是老師在最後幾週蠻 focus 在 Recent Advanced in LLM 這個主題（後來想想能在 2023/3 這種時候就把 RLHF 這樣的技術放在教材裡真的蠻扯的哈哈哈）。期末專題是打 AICUP，但每年應該都不一樣，畢竟 AICUP 也不一定每一場都有 NLP 的題目。總結來說，想要好好從頭了解 NLP 的基礎知識，這堂課真的是不錯的選擇。但 ML 的部分可能會變成上課前就要會了。&lt;/p&gt;
+&lt;h2 id=&#34;網路搜索與探勘&#34;&gt;網路搜索與探勘&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;修課時間：112-1&lt;/li&gt;
+&lt;li&gt;授課老師：蔡銘峰&lt;/li&gt;
+&lt;li&gt;Loading: 4 / 5&lt;/li&gt;
+&lt;li&gt;Prerequisite: Python, ML, probability, Linux (preferred)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;不愧是資科系最懂養生的教授，上課時常常會提到睡眠相關的議題，獲益良多。老師本身開發能力很強，跟業界也一直有產學合作，所以對目前業界生態以及發展都蠻了解的，也常常在上課提到，只能說上到賺到 XD。這堂課的內容主要會從 vector space model, probabilistic retrieval &amp;amp; LM for IR 三個角度切入去講解傳統 IR model 的演進以及方法，之後就會進到 Learning to Rank 的部分。WSM 算是蠻硬的一堂課，除了數學作業、程式作業以外，還有一次期中考跟期末專題。程式作業的部分如果沒有比較深厚的 Python 基礎應該會蠻累的 XDD，另外也需要會基本的 shell script / Linux CLI / trace code 的技巧才會寫得比較輕鬆，印象中有一次程式作業是要去翻 apache lucene / pyserini 底下的程式碼才有辦法把所有題目做完。期末報告的部分當學期是跟 KKCompany 合作去設計一個避免掉 popularity bias 的推薦系統。如果是有一點 coding 跟 ML 底子的人且想往 IR 或 NLP 領域發展的話，這堂課真的是不錯的選擇。&lt;/p&gt;
+&lt;h2 id=&#34;資料庫系統&#34;&gt;資料庫系統&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;修課時間：112-2&lt;/li&gt;
+&lt;li&gt;授課老師：沈錳坤&lt;/li&gt;
+&lt;li&gt;Loading: 3 / 5&lt;/li&gt;
+&lt;li&gt;Prerequisite: SQL, Python&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;先說如果只是想要學怎麼寫 query 的話，這堂課應該是不適合。DBMS 上半學期的重點是在講解 ER Model, Relational Data model, 以及一部分的 SQL query code，到了下半學期會進到真正的 Database design 跟 query optimization 的部分，這部分的內容就真的跟 query code 沒有太大的關係了，最後幾堂也會講到軟體工程概念的部分，比如說 ACID，CAP theorem 等等。如果以未來職涯發展是 backend / data engineer 的走向，整體來說算是實用性蠻高的課程。這堂課有三四個作業、期中期末考、以及一個期末專題。期末專題是一組要設計出一套可以在 localhost serve 起來的web server, 但大部分的重點會是在要怎麼將 database 好好的整合在 backend 中，算是蠻有趣的體驗。&lt;/p&gt;
+&lt;h2 id=&#34;總結&#34;&gt;總結&lt;/h2&gt;
+&lt;p&gt;以上是我在碩士班兩年最有印象的三堂選修課，老師真的都蠻認真在準備課程，如果之後有想要往 MLE / AI backend 作為職涯目標的話可以考慮修課。&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>24FW Machine Learning in Finance / Trading</title>
         <link>https://abnerteng.github.io/24fw_ml_finance/</link>
         <pubDate>Wed, 04 Sep 2024 11:20:04 +0800</pubDate>

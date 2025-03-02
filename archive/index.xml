@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Archived Web Pages on Abner Den</title>
+        <link>https://abnerteng.github.io/archive/</link>
+        <description>Recent content in Archived Web Pages on Abner Den</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 04 Sep 2024 11:20:04 +0800</lastBuildDate><atom:link href="https://abnerteng.github.io/archive/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>24FW Machine Learning in Finance / Trading</title>
+        <link>https://abnerteng.github.io/archive/24fw_fin_ml/</link>
+        <pubDate>Wed, 04 Sep 2024 11:20:04 +0800</pubDate>
+        
+        <guid>https://abnerteng.github.io/archive/24fw_fin_ml/</guid>
+        <description>&lt;p&gt;Description: Page for 24FW TMBA Department of Algorithmic Trading. Including resources, timeline, and other information.&lt;/p&gt;
+&lt;p&gt;Mentor: Yu-Chen (Abner) Den&lt;br&gt;
+Member: 陳采妍、曾順偉、黃彥博、施如恩、林沂萱、劉語安、童思謙&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;group-information&#34;&gt;Group Information&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Final Presentation Date&lt;/strong&gt;: Dec 28th, 2024&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Discuss Time&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Wednesday 21:00 - 22:30: 陳采妍、曾順偉、黃彥博、施如恩、童思謙&lt;/li&gt;
+&lt;li&gt;Sunday 22:00 - 23:00: 林沂萱、劉語安&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Table of Contents&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#timeline&#34; &gt;Timeline&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#resources&#34; &gt;Resources&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;timeline&#34;&gt;Timeline&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Date&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Topic&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Duration&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Slides&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Sep 29th 21:30 - 22:00&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Introduction, Topic Choosing&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1hr&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/presentation/d/1q1fMoN3Bf2gURp7bWWPqD0A7CSx1fg8VbeUBP7-zfb4/edit?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;W1&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Oct 13rd 21:00 - 22:00&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Interpretable Machine Learning (I)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1hr&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/presentation/d/1Zi3MkYKS43Ly8x9AKW15gsYadx5fXua15b2YhPWttcw/edit?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;W3&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Oct 13rd 22:00 - 23:00&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Sunday Group Discussion (I)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1hr&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;NaN&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Oct 16th 21:00 - 22:30&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Wednesday Group Discussion (I)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1hr&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;NaN&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Oct 27th 21:00 - 22:00&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Interpretable Machine Learning (II)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1hr&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/presentation/d/1dQU3PKpdktTmT-QhGh5yMRwF9FfpVKJwj4sBafU8G0c/edit?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;W5&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Oct 27th 22:00 - 23:00&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Sunday Group Discussion (II)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1hr&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;NaN&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Oct 30th 21:00 - 22:30&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Wednesday Group Discussion (II)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1hr&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;NaN&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Nov 10th 22:00 - 23:00&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Sunday Group Discussion (III)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1hr&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;NaN&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Nov 13th 21:00 - 22:30&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Wednesday Group Discussion (III)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1hr&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;NaN&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Nov 17th 21:00 - 22:00&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Interpretable Machine Learning (III)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1hr&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/presentation/d/1Q8uTOgv_EeGOHJF0sC0nxcZb9xst_FKWguDbBWB4BDQ/edit?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;W8&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Nov 24th 22:00 - 23:00&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Sunday Group Discussion (IV)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1hr&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;NaN&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Nov 27th 21:00 - 22:30&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Wednesday Group Discussion (IV)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1hr&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;NaN&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Dec 8th 21:00 - 22:00&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Interpretable Machine Learning (IV)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1hr&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;temp&#34; &gt;W11&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Dec 8th 22:00 - 23:00&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Subnday Group Discussion (V)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1hr&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;NaN&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Dec 11th 21:00 - 22:30&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Wednesday Group Discussion (V)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1hr&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;NaN&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Dec 22th 21:00 - 22:00&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Sunday Final Presentation Draft&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1hr&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;NaN&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Dec 25th 21:00 - 22:30&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Wednesday Final Presentation Draft&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1hr&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;NaN&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Project Timeline&lt;/strong&gt; (We have totally 13 weeks for the project)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Week 1-3: Introduction, Topic Choosing&lt;/li&gt;
+&lt;li&gt;Week 3-9: Strategy / Model development, Paper reproduction&lt;/li&gt;
+&lt;li&gt;Week 9-11: Check model / strategy performance, project enhancement, presentation draft&lt;/li&gt;
+&lt;li&gt;Week 12 &amp;amp; 13: Presentation revise, Final Presentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Python &amp;amp; Engineering&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://peps.python.org/pep-0008/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Python Style Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Davisy/Machine-Learning-Project-with-Configuration-File?tab=readme-ov-file&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Model configuration&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Bash Scripting&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Quant Trading / Finance&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://notes.yeshiwei.com/_downloads/2ce792aff8596ea9453a9714f39d957a/Machine_Learning_for_Algorithmic_Trading_Predictive.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;ML4Trading&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://press.princeton.edu/books/hardcover/9780691218700/machine-learning-in-asset-pricing?srsltid=AfmBOoo-GZ-Jy0NAT31ocHUZLQcfFr7EcD6DNV-xcbGfo-rIZrJOUVjG&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Machine Learning in Asset Pricing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/thuquant/awesome-quant?tab=readme-ov-file&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;awesome-quant&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://drive.google.com/file/d/1WpvEY7apFMaAp4OhHgN_wLessaw5K4xL/view?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Advances in Financial Machine Learning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Machine Learning / Deep Learning models&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://web.stanford.edu/class/cs224n/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Stanford CS224n NLP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Waterloo CS886 Foundation Model&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Resources</title>
+        <link>https://abnerteng.github.io/archive/resources/</link>
+        <pubDate>Fri, 05 Jul 2024 13:26:04 +0800</pubDate>
+        
+        <guid>https://abnerteng.github.io/archive/resources/</guid>
+        <description>&lt;p&gt;I&amp;rsquo;m committed to making all my resources open-source and free to access for everyone who loves machine learning, quantitative finance, and programming.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Table of Contents&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#coding-style-manual-for-python-beginners&#34; &gt;Coding Style Manual for Python Beginners&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#latex-templates&#34; &gt;$\LaTeX$ Templates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#quantitative-finance&#34; &gt;Quantitative Finance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#lecture-slides&#34; &gt;Lecture Slides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;coding-style-manual-for-python-beginners&#34;&gt;Coding Style Manual for Python Beginners&lt;/h3&gt;
+&lt;p&gt;Coming soon&amp;hellip;&lt;/p&gt;
+&lt;h3 id=&#34;latex-templates&#34;&gt;$\LaTeX$ Templates&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/AbnerTeng/LaTeX-templates&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Repository&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;quantitative-finance&#34;&gt;Quantitative Finance&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/AbnerTeng/Quant-Finance/tree/master/HWs&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;CTA Strategy for Beginners (HWs for mentees @ TMBA ATD)&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/AbnerTeng/Quant-Finance/wiki/Homework-Instructions&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Homework Instructions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;lecture-slides&#34;&gt;Lecture Slides&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;(Short Course) Interpretable Machine Learning (I)(II), Fall 2024&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;&#34; &gt;Slides1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;&#34; &gt;Slides2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;(Workshop) Introduction to Text Mining and Natural Language Processing, Spring 2024&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/presentation/d/1R_OlylidKAzj6d7jgHbmmUlMF86pCNoaMICYLjT55jU/edit?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=rLdFYIe3B_4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Videos&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;(Workshop) Python for Data Analysis (I), Fall 2023&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://drive.google.com/drive/folders/1RH8rHxipd9t0jeLrPxG9Uvvm-7bkxx3z?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Colab Notebooks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;(Workshop) Python for Data Analysis (II), Spring 2024&lt;sup id=&#34;fnref1:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://drive.google.com/drive/folders/1JQFDN-rZQMW7qamagCH4lVoz-DWDtbZY?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Colab Notebooks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Special thanks to my girlfriend &lt;a class=&#34;link&#34; href=&#34;https://www.linkedin.com/in/meng-chun-you/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Meng-Chun (Angela) You&lt;/a&gt; for helding the workshops with me ♡.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref1:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

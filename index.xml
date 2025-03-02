@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Abner Den</title>
+        <title>About on Abner Den</title>
         <link>https://abnerteng.github.io/</link>
-        <description>Recent content on Abner Den</description>
+        <description>Recent content in About on Abner Den</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 21 Oct 2024 12:42:00 +0800</lastBuildDate><atom:link href="https://abnerteng.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 01 Mar 2025 14:14:34 +0800</lastBuildDate><atom:link href="https://abnerteng.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>List 100</title>
         <link>https://abnerteng.github.io/list100/</link>
         <pubDate>Mon, 21 Oct 2024 12:42:00 +0800</pubDate>
@@ -86,10 +86,10 @@
         </item>
         <item>
         <title>24FW Machine Learning in Finance / Trading</title>
-        <link>https://abnerteng.github.io/24fw_ml_finance/</link>
+        <link>https://abnerteng.github.io/archive/24fw_fin_ml/</link>
         <pubDate>Wed, 04 Sep 2024 11:20:04 +0800</pubDate>
         
-        <guid>https://abnerteng.github.io/24fw_ml_finance/</guid>
+        <guid>https://abnerteng.github.io/archive/24fw_fin_ml/</guid>
         <description>&lt;p&gt;Description: Page for 24FW TMBA Department of Algorithmic Trading. Including resources, timeline, and other information.&lt;/p&gt;
 &lt;p&gt;Mentor: Yu-Chen (Abner) Den&lt;br&gt;
 Member: 陳采妍、曾順偉、黃彥博、施如恩、林沂萱、劉語安、童思謙&lt;/p&gt;
@@ -269,10 +269,10 @@ Member: 陳采妍、曾順偉、黃彥博、施如恩、林沂萱、劉語安、
         </item>
         <item>
         <title>Resources</title>
-        <link>https://abnerteng.github.io/resources/</link>
+        <link>https://abnerteng.github.io/archive/resources/</link>
         <pubDate>Fri, 05 Jul 2024 13:26:04 +0800</pubDate>
         
-        <guid>https://abnerteng.github.io/resources/</guid>
+        <guid>https://abnerteng.github.io/archive/resources/</guid>
         <description>&lt;p&gt;I&amp;rsquo;m committed to making all my resources open-source and free to access for everyone who loves machine learning, quantitative finance, and programming.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;Table of Contents&lt;/p&gt;
@@ -856,68 +856,6 @@ Member: 陳采妍、曾順偉、黃彥博、施如恩、林沂萱、劉語安、
 &lt;p&gt;這次的內容主要 focus 在基礎的語法以及應用上（就是看完即可寫作業的程度），但其實 $\LaTeX$ 還有一個比較麻煩比較搞的地方是插入表格以及圖片的部分，想要兩張圖片並排還要多寫幾行程式碼XD，這部分就留到下一篇再講ㄌ（雖然我也不知道下一篇是啥時）。最後將附上自己的模板給需要的人使用。&lt;/p&gt;
 &lt;p&gt;Template Link: &lt;a class=&#34;link&#34; href=&#34;https://github.com/AbnerTeng/LaTeX-templates&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>About</title>
-        <link>https://abnerteng.github.io/about/</link>
-        <pubDate>Mon, 11 Mar 2024 01:44:04 +0800</pubDate>
-        
-        <guid>https://abnerteng.github.io/about/</guid>
-        <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
-&lt;p&gt;I&amp;rsquo;m Yu-Chen (Abner) Den (鄧昱辰), currently a machine learning engineer @ SinoPac Holdings, I&amp;rsquo;m also a first-year Ph.D student @ Graduate Institute of Networking &amp;amp; Multimedia (GINM) @ NTU, but I have postponed the degree because I want to work first XDD.&lt;/p&gt;
-&lt;p&gt;Based on my past experiences in Financial Engineering, my research interests are Empirical Asset Pricing with Machine Learning Approach. But I&amp;rsquo;m now focusing on and learning Tabular Neural Network, Information Retrieval, and Machine Learning System Design.&lt;/p&gt;
-&lt;p&gt;Besides work, I enjoy playing basketball, fitness, traveling, reading, and playing guitar.&lt;/p&gt;
-&lt;h3 id=&#34;news&#34;&gt;News&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;[2025 Jan]: Our Team &lt;strong&gt;SinoPac Turing&lt;/strong&gt; ranked top 0.9% in &lt;strong&gt;JaneStreet Real-Time Market Data Forecasting&lt;/strong&gt; competition.&lt;/li&gt;
-&lt;li&gt;[2024 Jul]: I will continue my 2nd year mentor at &lt;strong&gt;Algorithm Trading Team, TMBA&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;[2024 Jul]: I will start my machine learning engineer at &lt;strong&gt;AI Lab, SinoPac Holdings&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;[2024 May]: My Ph.D. application to the &lt;strong&gt;Graduate Institute of Networking &amp;amp; Multimedia (GINM)&lt;/strong&gt; and &lt;strong&gt;Computer Science &amp;amp; Information Ingineering (CSIE)&lt;/strong&gt; @ &lt;strong&gt;National Taiwan University&lt;/strong&gt; is accepted.&lt;/li&gt;
-&lt;li&gt;[2024 Mar]: One paper is accepted by &lt;strong&gt;FeAT 2024&lt;/strong&gt; @ Taipei.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;personal-infos&#34;&gt;Personal Infos&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Ph.D. student @ GINM, National Taiwan University (NTU) || 24.09 - Present (Postponed)&lt;/li&gt;
-&lt;li&gt;M.S. @ Money &amp;amp; Banking, National Chengchi University (NCCU) ||  22.09 - 24.06&lt;/li&gt;
-&lt;li&gt;B.A. @ Public Finance, National Chengchi University (NCCU)  ||  18.09 - 22.06&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Working Experience&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Machine Learning Engineer @ Turing Team, SinoPac Holdings || 24.07 - Present&lt;/li&gt;
-&lt;li&gt;Graduate Research Assistant @ NCCU  || 23.11 - 24.06&lt;/li&gt;
-&lt;li&gt;Data Scientist Intern @ AI Team, iKala Interactive Media Inc. || 23.03 - 23.11&lt;/li&gt;
-&lt;li&gt;Research Consultant Intern @ WorldQuant LLC. ||  22.11 - 23.03&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Academic Club&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;24, 25th Mentor @ Algorithm Trading team, TMBA || 23.07 - Present&lt;/li&gt;
-&lt;li&gt;5th Director of Academic Affairs @ NTU DAC ||  23.06 - 24.06&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Teaching Experience&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Interpretable Machine Learning @ TMBA&lt;/li&gt;
-&lt;li&gt;Python Data Analysis Workshop (I)(II) @ NTU DAC&lt;/li&gt;
-&lt;li&gt;Text Mining Workshop @ NTU DAC&lt;/li&gt;
-&lt;li&gt;Computer Programming Teaching Assistant @ NCCU&lt;/li&gt;
-&lt;li&gt;Econometrics (Graduate Level) Teaching Assistant @ NCCU&lt;/li&gt;
-&lt;li&gt;Financial Econometrics &amp;amp; Machine Learning Teaching Assistant @ NCCU&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;papers&#34;&gt;Papers&lt;/h3&gt;
-&lt;p&gt;[Working Paper]&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Does One Pattern Fit All? Image Analysis for Different Equity Styles | &lt;a class=&#34;link&#34; href=&#34;https://drive.google.com/file/d/19dFmDpXK6NVw9VR4NU9-0DxncarDYvkl/view?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;paper&lt;/a&gt;&lt;br&gt;
-&lt;a class=&#34;link&#34; href=&#34;&#34; &gt;Yu-Chen Den*&lt;/a&gt;, Kendro Vincent*, and Zong-Wei Yeh&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;[Work-in-Progress]&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Predictability of Universal Commodity Ratio&lt;br&gt;
-Zong-Wei Yeh* and Yu-Chen Den*&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;Special thanks to Angela (游孟純) for always supporting me &amp;lt;3&lt;/p&gt;
 </description>
         </item>
         <item>

@@ -3,15 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://abnerteng.github.io/</loc>
-    <lastmod>2024-10-21T12:42:00+08:00</lastmod>
+    <lastmod>2025-03-01T14:14:34+08:00</lastmod>
   </url><url>
     <loc>https://abnerteng.github.io/list100/</loc>
     <lastmod>2024-10-21T12:42:00+08:00</lastmod>
   </url><url>
-    <loc>https://abnerteng.github.io/categories/</loc>
+    <loc>https://abnerteng.github.io/post/</loc>
     <lastmod>2024-09-28T20:22:54+08:00</lastmod>
   </url><url>
-    <loc>https://abnerteng.github.io/post/</loc>
+    <loc>https://abnerteng.github.io/categories/</loc>
     <lastmod>2024-09-28T20:22:54+08:00</lastmod>
   </url><url>
     <loc>https://abnerteng.github.io/categories/sharing/</loc>
@@ -20,10 +20,13 @@
     <loc>https://abnerteng.github.io/post/nccucs_course/</loc>
     <lastmod>2024-09-28T20:22:54+08:00</lastmod>
   </url><url>
-    <loc>https://abnerteng.github.io/24fw_ml_finance/</loc>
+    <loc>https://abnerteng.github.io/archive/24fw_fin_ml/</loc>
     <lastmod>2024-09-04T11:20:04+08:00</lastmod>
   </url><url>
-    <loc>https://abnerteng.github.io/resources/</loc>
+    <loc>https://abnerteng.github.io/archive/</loc>
+    <lastmod>2024-09-04T11:20:04+08:00</lastmod>
+  </url><url>
+    <loc>https://abnerteng.github.io/archive/resources/</loc>
     <lastmod>2024-07-05T13:26:04+08:00</lastmod>
   </url><url>
     <loc>https://abnerteng.github.io/post/interviews/</loc>
@@ -46,9 +49,6 @@
   </url><url>
     <loc>https://abnerteng.github.io/post/latex-basic/</loc>
     <lastmod>2024-03-31T19:45:38+08:00</lastmod>
-  </url><url>
-    <loc>https://abnerteng.github.io/about/</loc>
-    <lastmod>2024-03-11T01:44:04+08:00</lastmod>
   </url><url>
     <loc>https://abnerteng.github.io/post/ntudac_academic/</loc>
     <lastmod>2024-03-09T23:35:54+08:00</lastmod>

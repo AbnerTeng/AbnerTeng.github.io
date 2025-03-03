@@ -6,7 +6,65 @@
         <description>Recent content in Blog Posts on Abner Den</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 28 Sep 2024 20:22:54 +0800</lastBuildDate><atom:link href="https://abnerteng.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 03 Mar 2025 20:56:46 +0800</lastBuildDate><atom:link href="https://abnerteng.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>CV Writing Tips for Students</title>
+        <link>https://abnerteng.github.io/post/cv_tips/</link>
+        <pubDate>Mon, 03 Mar 2025 20:56:46 +0800</pubDate>
+        
+        <guid>https://abnerteng.github.io/post/cv_tips/</guid>
+        <description>&lt;img src="https://abnerteng.github.io/post/cv_tips/page_img.jpg" alt="Featured image of post CV Writing Tips for Students" /&gt;&lt;blockquote&gt;
+&lt;p&gt;這篇文章適合剛開始寫履歷、對履歷內容及排版較沒有概念的人參考，如果是有參加過學術性社團履歷健檢、甚至已經取得頂尖實習、正職工作機會的人，可能會覺得沒有太大幫助（甚至你可能比我更厲害 XD）。另請注意，因為我的背景是金融 / 軟體相關，因此履歷風格以簡潔明瞭為主，如果是設計相關的履歷，可能無法參考。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;文章緣起&#34;&gt;文章緣起&lt;/h2&gt;
+&lt;p&gt;從 2023 年開始，我協助學弟妹修改研究所推甄、考試的履歷及自傳、進入學術性社團後也看了蠻多應徵者、同學、mentee 的履歷，時至今日，看過零零總總將近五百份履歷後，發現很多學生在履歷撰寫上似乎問題不少（沒有社團、實習經驗者更甚），且學校基本上沒有課程會提到履歷的撰寫，因此決定寫下這篇文章，讓需要的人可以參考，也可以在之後幫別人修改履歷時先請他看完這篇文章（對我就是這麽懶惰）。&lt;/p&gt;
+&lt;h2 id=&#34;tldr&#34;&gt;TL;DR&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;履歷不是自傳&lt;/strong&gt;: 不需要寫個性、特質、MBTI、blah blah blah，真的沒人在乎。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;不要花俏，除非你應徵設計相關職位&lt;/strong&gt;: 簡單、乾淨、易讀，最好是白底黑字並且用 $\LaTeX$ 撰寫（個人偏好請勿抨擊）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;內容敘述善用 &lt;a class=&#34;link&#34; href=&#34;https://www.indeed.com/career-advice/resumes-cover-letters/star-method-resume&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;STAR Principle&lt;/a&gt;&lt;/strong&gt;: Situation, Task, Action, Result 是一份好履歷的開端。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;不要寫太多，履歷要精緻&lt;/strong&gt;: 除非你是國際頂尖學者，有幾十篇頂刊頂會，否則一頁足矣。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;1-履歷不是自傳&#34;&gt;1. 履歷不是自傳&lt;/h2&gt;
+&lt;p&gt;這是幾乎每個大學生在剛開始寫履歷時都會有的毛病，在一份正式的履歷中，不需要寫太多關於個性、特質等與工作無關的內容。舉例來說，我最常看到的大概長這樣：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-plaintext&#34; data-lang=&#34;plaintext&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;## 關於我
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;我是一個 ___ 的人，我對於 ___ 有極大興趣...
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;履歷關基本上是在篩選你的能力、經驗等等，到了面試之後才是個性、個人特質的展現時間。之前在一個&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=veFlfYjRo1Y&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;蠻有意思的影片&lt;/a&gt; 就看到 recruiter 的視線大部份都停留在履歷的最上方，如果那邊寫著個性與個人特質，不覺得白白浪費掉一個讓 recruiter 看到你的機會嗎 XD&lt;/p&gt;
+&lt;h2 id=&#34;2-履歷排版與格式&#34;&gt;2. 履歷排版與格式&lt;/h2&gt;
+&lt;p&gt;這部份其實是最簡單的，把所有色塊都拿掉，留下白底黑字吧！我知道很多人第一份履歷都是從在 Canva 上找模板開始（包括我也是），但這樣的履歷除了會因為色塊佔用空間而讓可呈現的內容變少之外，也會讓整份履歷看起來比較亂，在金融業 / 軟體業較不吃香（至少我看起來是這這樣啦 XD，我跟幾個朋友也不喜歡這樣的履歷）。比較保險的做法是參考 word 的模板，如果行有餘力的話 $\LaTeX$ 是一個更好的選擇。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;順便推銷自己的模板 &lt;a class=&#34;link&#34; href=&#34;https://github.com/AbnerTeng/LaTeX-templates/blob/main/cv.tex&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;CV-Template&lt;/a&gt;，我到後期都推坑朋友使用這份模板，他們也都找到不錯的工作（當然個人經歷還是最重要的啦）。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;內容編排上，如果是還沒畢業的學生，建議可以按照這樣的順序排列：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;學歷&lt;/li&gt;
+&lt;li&gt;實習 / 社團經歷&lt;/li&gt;
+&lt;li&gt;專案 / 競賽 / 文章發表&lt;/li&gt;
+&lt;li&gt;技能（程式語言、英文檢定等等）/ 獎項&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Tips: 工作經驗建議可以把職位的字體拉大，公司放小，畢竟同一間公司有各式各樣的職位，這樣可以讓 recruiter 更快速地知道你過去的經驗。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;3-內容敘述&#34;&gt;3. 內容敘述&lt;/h2&gt;
+&lt;p&gt;我稱之為履歷大魔王，每次修改履歷都花一大堆時間在內容敘述上，畢竟這真正代表了你的能力、經驗、以及工作的成果。在這裡我建議大家可以參考 &lt;a class=&#34;link&#34; href=&#34;https://www.indeed.com/career-advice/resumes-cover-letters/star-method-resume&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;STAR Principle&lt;/a&gt; ，我就不贅述了。&lt;/p&gt;
+&lt;p&gt;另一點是多善用數字, 這是我在幫學弟妹修改履歷時最常看到的問題，大家都喜歡用文字描述自己對公司的貢獻，但是實際上能夠明確知到你的貢獻有多少的只有數字。舉例來說，你可以寫：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-plaintext&#34; data-lang=&#34;plaintext&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;- Utilize PyTorch Lightning for refactor the training pipeline and inference API 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;interface, which increase the inference speed and web service throughput by 30% each.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;那個 &lt;strong&gt;30%&lt;/strong&gt; 就會是重點了，這比起「提升很多」來得更具體。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Tips: [For 學生] 如果東西真的很少怎麼辦？把相關課程的期末專題寫進去，在學歷的地方也可以寫上相關課程的修課分數（當然太爛就不要放了 XD）。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;4-後記&#34;&gt;4. 後記&lt;/h2&gt;
+&lt;p&gt;洋洋灑灑寫了這麼多，難道我都是自己摸索出來的嗎？並非如此，我每一份履歷都是模仿別人的，再拿著自己模仿完的履歷去找在業界工作的學長姐、對寫履歷也比較有經驗的朋友們幫忙看、幫忙修改，如此一來一回才造就現在的履歷。因此，除了上述的要點之外，其實找到相對有經驗的人幫忙看履歷也是很重要的一環，畢竟他們知道什麼是大家愛看、不愛看的內容。&lt;/p&gt;
+&lt;p&gt;最後，如果你看完我的文章覺得有所收穫，也覺得我在履歷撰寫上有可以幫助到你的地方，歡迎私訊我的 &lt;a class=&#34;link&#34; href=&#34;https://www.facebook.com/abner.teng.7&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;FaceBook&lt;/a&gt; 或是寄信給我（左上角有連結）。&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>政大資科修課心得</title>
         <link>https://abnerteng.github.io/post/nccucs_course/</link>
         <pubDate>Sat, 28 Sep 2024 20:22:54 +0800</pubDate>

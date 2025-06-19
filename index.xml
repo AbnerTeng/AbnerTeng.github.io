@@ -1062,6 +1062,183 @@ Member: 陳采妍、曾順偉、黃彥博、施如恩、林沂萱、劉語安、
     &gt;這裏&lt;/a&gt;投遞履歷，如果有想要多聊聊的人可以直接用左側 sidebar 的各種聯繫方式找我！&lt;/p&gt;
 </description>
         </item>
+        <item>
+        <title>Publications</title>
+        <link>https://abnerteng.github.io/publications/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://abnerteng.github.io/publications/</guid>
+        <description>&lt;h1 id=&#34;publications&#34;&gt;Publications&lt;/h1&gt;
+&lt;hr&gt;
+
+
+&lt;div class=&#34;publication-item&#34;&gt;
+    &lt;div class=&#34;publication-content&#34;&gt;
+        &lt;h3 class=&#34;publication-title&#34;&gt;Neural Alpha: Improve Portfolio Quality Through Mulit-Aspect Alpha Ensemble&lt;/h3&gt;
+        
+        &lt;div class=&#34;publication-authors&#34;&gt;
+            &lt;strong&gt;Yu-Chen Den&lt;/strong&gt;, Kuan-Yu Chen, Jia-Wei Liao, Tian Hao Darby Chang
+        &lt;/div&gt;
+        
+        &lt;div class=&#34;publication-meta&#34;&gt;
+            &lt;span class=&#34;publication-date&#34;&gt;&lt;/span&gt;
+            
+            
+            &lt;span class=&#34;publication-status&#34;&gt;Work in Progress&lt;/span&gt;
+            
+        &lt;/div&gt;
+        
+        
+        &lt;div class=&#34;publication-tags&#34;&gt;
+            
+            &lt;span class=&#34;publication-tag&#34;&gt;Financial Machine Learning&lt;/span&gt;
+            
+            &lt;span class=&#34;publication-tag&#34;&gt;Alpha Mining&lt;/span&gt;
+            
+            &lt;span class=&#34;publication-tag&#34;&gt;Learning to Rank&lt;/span&gt;
+            
+        &lt;/div&gt;
+        
+        
+        &lt;div class=&#34;publication-description&#34;&gt;
+            We propose a multi-aspect multi-alpha ensemble framework, Neural Alpha, to improve the diversity and risk controllability of portfolio, therefore achieved SOTA performance.
+        &lt;/div&gt;
+        
+        
+    &lt;/div&gt;
+    
+    
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;publication-item&#34;&gt;
+    &lt;div class=&#34;publication-content&#34;&gt;
+        &lt;h3 class=&#34;publication-title&#34;&gt;Does One Pattern Fit All? Image Analysis with Different Equity Styles&lt;/h3&gt;
+        
+        &lt;div class=&#34;publication-authors&#34;&gt;
+            &lt;strong&gt;Yu-Chen Den&lt;/strong&gt;, Zong-Wei Yeh, Kendro Vincent
+        &lt;/div&gt;
+        
+        &lt;div class=&#34;publication-meta&#34;&gt;
+            &lt;span class=&#34;publication-date&#34;&gt;&lt;/span&gt;
+            
+            &lt;span class=&#34;publication-venue&#34;&gt;International Conference of FeAT 2024&lt;/span&gt;
+            
+            
+        &lt;/div&gt;
+        
+        
+        &lt;div class=&#34;publication-tags&#34;&gt;
+            
+            &lt;span class=&#34;publication-tag&#34;&gt;Financial Machine Learning&lt;/span&gt;
+            
+            &lt;span class=&#34;publication-tag&#34;&gt;Computer Vision&lt;/span&gt;
+            
+            &lt;span class=&#34;publication-tag&#34;&gt;Empirical Asset Pricing&lt;/span&gt;
+            
+        &lt;/div&gt;
+        
+        
+        &lt;div class=&#34;publication-description&#34;&gt;
+            Toward investigating stocks with different patterns, we found that making stock prediction problem as multi-class classification is more suitable than just a binary classification problem.
+        &lt;/div&gt;
+        
+        
+        &lt;div class=&#34;publication-links&#34;&gt;
+            
+            
+            &lt;a href=&#34;https://github.com/AbnerTeng/Stock-pattern-recognition&#34; class=&#34;publication-link&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;
+            
+            
+            
+            &lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5025395&#34; class=&#34;publication-link&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;
+            
+        &lt;/div&gt;
+        
+    &lt;/div&gt;
+    
+    
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;publication-item&#34;&gt;
+    &lt;div class=&#34;publication-content&#34;&gt;
+        &lt;h3 class=&#34;publication-title&#34;&gt;Momentum-Informed 52-Week High Prediction Through Latent Image Representation&lt;/h3&gt;
+        
+        &lt;div class=&#34;publication-authors&#34;&gt;
+            &lt;strong&gt;Yu-Chen Den&lt;/strong&gt;, Kendro Vincent, Zong-Wei Yeh, Ru-En Shih
+        &lt;/div&gt;
+        
+        &lt;div class=&#34;publication-meta&#34;&gt;
+            &lt;span class=&#34;publication-date&#34;&gt;&lt;/span&gt;
+            
+            
+            &lt;span class=&#34;publication-status&#34;&gt;Work in Progress&lt;/span&gt;
+            
+        &lt;/div&gt;
+        
+        
+        &lt;div class=&#34;publication-tags&#34;&gt;
+            
+            &lt;span class=&#34;publication-tag&#34;&gt;Financial Machine Learning&lt;/span&gt;
+            
+            &lt;span class=&#34;publication-tag&#34;&gt;Empirical Asset Pricing&lt;/span&gt;
+            
+        &lt;/div&gt;
+        
+        
+        &lt;div class=&#34;publication-description&#34;&gt;
+            
+        &lt;/div&gt;
+        
+        
+    &lt;/div&gt;
+    
+    
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;publication-item&#34;&gt;
+    &lt;div class=&#34;publication-content&#34;&gt;
+        &lt;h3 class=&#34;publication-title&#34;&gt;Return Predictability of Universal Commodity Ratio&lt;/h3&gt;
+        
+        &lt;div class=&#34;publication-authors&#34;&gt;
+            Zong-Wei Yeh, &lt;strong&gt;Yu-Chen Den&lt;/strong&gt;
+        &lt;/div&gt;
+        
+        &lt;div class=&#34;publication-meta&#34;&gt;
+            &lt;span class=&#34;publication-date&#34;&gt;&lt;/span&gt;
+            
+            
+            &lt;span class=&#34;publication-status&#34;&gt;Work in Progress&lt;/span&gt;
+            
+        &lt;/div&gt;
+        
+        
+        &lt;div class=&#34;publication-tags&#34;&gt;
+            
+            &lt;span class=&#34;publication-tag&#34;&gt;Financial Machine Learning&lt;/span&gt;
+            
+            &lt;span class=&#34;publication-tag&#34;&gt;Empirical Asset Pricing&lt;/span&gt;
+            
+        &lt;/div&gt;
+        
+        
+        &lt;div class=&#34;publication-description&#34;&gt;
+            
+        &lt;/div&gt;
+        
+        
+    &lt;/div&gt;
+    
+    
+&lt;/div&gt;
+
+</description>
+        </item>
         
     </channel>
 </rss>

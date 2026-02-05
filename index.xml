@@ -1073,17 +1073,17 @@ Member: 陳采妍、曾順偉、黃彥博、施如恩、林沂萱、劉語安、
 
 &lt;div class=&#34;publication-item&#34;&gt;
     &lt;div class=&#34;publication-content&#34;&gt;
-        &lt;h3 class=&#34;publication-title&#34;&gt;Neural Alpha: Improve Portfolio Quality Through Mulit-Aspect Alpha Ensemble&lt;/h3&gt;
+        &lt;h3 class=&#34;publication-title&#34;&gt;Specializing Inductive Biases in Transformers for Generalization in Financial Time Series Forecasting&lt;/h3&gt;
         
         &lt;div class=&#34;publication-authors&#34;&gt;
-            &lt;strong&gt;Yu-Chen Den&lt;/strong&gt;, Kuan-Yu Chen, Jia-Wei Liao, Tian Hao Darby Chang
+            &lt;strong&gt;Yu-Chen Den*&lt;/strong&gt;, Kuan-Yu Chen*, Tian Hao Darby Chang and Kendro Vincent
         &lt;/div&gt;
         
         &lt;div class=&#34;publication-meta&#34;&gt;
             &lt;span class=&#34;publication-date&#34;&gt;&lt;/span&gt;
             
             
-            &lt;span class=&#34;publication-status&#34;&gt;Work in Progress&lt;/span&gt;
+            &lt;span class=&#34;publication-status&#34;&gt;Submitted to KDD &amp;#39;26&lt;/span&gt;
             
         &lt;/div&gt;
         
@@ -1092,15 +1092,48 @@ Member: 陳采妍、曾順偉、黃彥博、施如恩、林沂萱、劉語安、
             
             &lt;span class=&#34;publication-tag&#34;&gt;Financial Machine Learning&lt;/span&gt;
             
-            &lt;span class=&#34;publication-tag&#34;&gt;Alpha Mining&lt;/span&gt;
+        &lt;/div&gt;
+        
+        
+        &lt;div class=&#34;publication-description&#34;&gt;
             
-            &lt;span class=&#34;publication-tag&#34;&gt;Learning to Rank&lt;/span&gt;
+        &lt;/div&gt;
+        
+        
+    &lt;/div&gt;
+    
+    
+&lt;/div&gt;
+
+
+&lt;div class=&#34;publication-item&#34;&gt;
+    &lt;div class=&#34;publication-content&#34;&gt;
+        &lt;h3 class=&#34;publication-title&#34;&gt;Retrieving while Talking: Efficient Multi-Turn Conversational Recommendation via Generative Retrieval&lt;/h3&gt;
+        
+        &lt;div class=&#34;publication-authors&#34;&gt;
+            &lt;strong&gt;Yu-Chen Den*&lt;/strong&gt;, Zhi Rui Tam*, Yu-Han Chang, Yu-Che Tsai, Kuan-Yu Chen, Pu-Jen Cheng, Yun-Nung Chen and Eugene Yang
+        &lt;/div&gt;
+        
+        &lt;div class=&#34;publication-meta&#34;&gt;
+            &lt;span class=&#34;publication-date&#34;&gt;&lt;/span&gt;
+            
+            
+            &lt;span class=&#34;publication-status&#34;&gt;Submitted to ACL &amp;#39;26&lt;/span&gt;
+            
+        &lt;/div&gt;
+        
+        
+        &lt;div class=&#34;publication-tags&#34;&gt;
+            
+            &lt;span class=&#34;publication-tag&#34;&gt;Generative Retrieval&lt;/span&gt;
+            
+            &lt;span class=&#34;publication-tag&#34;&gt;Dialogue Systems&lt;/span&gt;
             
         &lt;/div&gt;
         
         
         &lt;div class=&#34;publication-description&#34;&gt;
-            We propose a multi-aspect multi-alpha ensemble framework, Neural Alpha, to improve the diversity and risk controllability of portfolio, therefore achieved SOTA performance.
+            
         &lt;/div&gt;
         
         
@@ -1139,18 +1172,18 @@ Member: 陳采妍、曾順偉、黃彥博、施如恩、林沂萱、劉語安、
         
         
         &lt;div class=&#34;publication-description&#34;&gt;
-            Toward investigating stocks with different patterns, we found that making stock prediction problem as multi-class classification is more suitable than just a binary classification problem.
+            
         &lt;/div&gt;
         
         
         &lt;div class=&#34;publication-links&#34;&gt;
             
             
-            &lt;a href=&#34;https://github.com/AbnerTeng/Stock-pattern-recognition&#34; class=&#34;publication-link&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;
+            &lt;a href=&#34;#ZgotmplZ&#34; class=&#34;publication-link&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;
             
             
             
-            &lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5025395&#34; class=&#34;publication-link&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;
+            &lt;a href=&#34;#ZgotmplZ&#34; class=&#34;publication-link&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;
             
         &lt;/div&gt;
         

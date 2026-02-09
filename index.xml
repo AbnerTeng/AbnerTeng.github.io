@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>About on Abner Den</title>
+        <title>Yu-Chen (Abner) Den on Abner Den 鄧昱辰</title>
         <link>https://abnerteng.github.io/</link>
-        <description>Recent content in About on Abner Den</description>
+        <description>Recent content in Yu-Chen (Abner) Den on Abner Den 鄧昱辰</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Sat, 01 Mar 2025 14:14:34 +0800</lastBuildDate><atom:link href="https://abnerteng.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
@@ -166,7 +166,6 @@
         <guid>https://abnerteng.github.io/list100/</guid>
         <description>&lt;p&gt;(Inspired by &lt;a class=&#34;link&#34; href=&#34;https://huyenchip.com/list-100/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Chip Huyen&amp;rsquo;s List 100&lt;/a&gt;)&lt;/p&gt;
-&lt;h2 id=&#34;list-100&#34;&gt;List 100&lt;/h2&gt;
 &lt;p&gt;[ ] 1. Write a book about ML&lt;br&gt;
 [ ] 2. Become the first-author of a top-tier conference paper&lt;br&gt;
 [ ] 3. Start &amp;amp; Finish a Computer Science Ph.D. degree&lt;br&gt;
@@ -192,9 +191,9 @@
 [ ] 23. Watch a live NBA game&lt;br&gt;
 [ ] 24. Build a shoe wall full of Kobe&lt;br&gt;
 [ ] 25. Complete a full marathon in Taiwan&lt;br&gt;
-[ ] 26. Attend a road running in Japan&lt;br&gt;
+[ ] 26. Attend a full marathon in Japan&lt;br&gt;
 [ ] 27. Own an apartment in Kyoto&lt;br&gt;
-[ ] 28. See Kiwi
+[ ] 28. See Kiwi&lt;br&gt;
 [ ] 29. Be the PC of top conference&lt;/p&gt;
 </description>
         </item>
@@ -1068,204 +1067,182 @@ Member: 陳采妍、曾順偉、黃彥博、施如恩、林沂萱、劉語安、
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://abnerteng.github.io/publications/</guid>
-        <description>&lt;h1 id=&#34;publications&#34;&gt;Publications&lt;/h1&gt;
-&lt;hr&gt;
-
+        <description>
 &lt;div class=&#34;publication-item&#34;&gt;
     &lt;div class=&#34;publication-content&#34;&gt;
-        &lt;h3 class=&#34;publication-title&#34;&gt;Specializing Inductive Biases in Transformers for Generalization in Financial Time Series Forecasting&lt;/h3&gt;
+        &lt;h5 class=&#34;publication-title&#34;&gt;
+            
+            Integrating Inductive Biases in Transformers via Distillation for Financial Time Series Forecasting
+            
+        &lt;/h5&gt;
         
         &lt;div class=&#34;publication-authors&#34;&gt;
-            &lt;strong&gt;Yu-Chen Den*&lt;/strong&gt;, Kuan-Yu Chen*, Tian Hao Darby Chang and Kendro Vincent
+            &amp;lt;strong&amp;gt;Yu-Chen Den*&amp;lt;/strong&amp;gt;, Kuan-Yu Chen*, Kendro Vincent, Tien Hao Darby Chang
         &lt;/div&gt;
         
         &lt;div class=&#34;publication-meta&#34;&gt;
-            &lt;span class=&#34;publication-date&#34;&gt;&lt;/span&gt;
+            &lt;span class=&#34;publication-date&#34;&gt;Submitted to&lt;/span&gt;
+            &lt;span class=&#34;publication-venue&#34;&gt;KDD 2026&lt;/span&gt;
             
-            
-            &lt;span class=&#34;publication-status&#34;&gt;Submitted to KDD &amp;#39;26&lt;/span&gt;
-            
-        &lt;/div&gt;
-        
-        
-        &lt;div class=&#34;publication-tags&#34;&gt;
-            
-            &lt;span class=&#34;publication-tag&#34;&gt;Financial Machine Learning&lt;/span&gt;
+            &lt;span class=&#34;publication-tags&#34;&gt;
+                
+                
+                &lt;span class=&#34;publication-tag tag-ml&#34;&gt;#ML&lt;/span&gt;
+                
+                
+                &lt;span class=&#34;publication-tag tag-finance&#34;&gt;#Finance&lt;/span&gt;
+                
+            &lt;/span&gt;
             
         &lt;/div&gt;
         
         
         &lt;div class=&#34;publication-description&#34;&gt;
             
+                
+            
         &lt;/div&gt;
         
         
+        
     &lt;/div&gt;
-    
-    
 &lt;/div&gt;
 
 
 &lt;div class=&#34;publication-item&#34;&gt;
     &lt;div class=&#34;publication-content&#34;&gt;
-        &lt;h3 class=&#34;publication-title&#34;&gt;Retrieving while Talking: Efficient Multi-Turn Conversational Recommendation via Generative Retrieval&lt;/h3&gt;
+        &lt;h5 class=&#34;publication-title&#34;&gt;
+            
+            Retrieving while Talking: Efficient Multi-Turn Conversational Recommendation via Generative Retrieval
+            
+        &lt;/h5&gt;
         
         &lt;div class=&#34;publication-authors&#34;&gt;
-            &lt;strong&gt;Yu-Chen Den*&lt;/strong&gt;, Zhi Rui Tam*, Yu-Han Chang, Yu-Che Tsai, Kuan-Yu Chen, Pu-Jen Cheng, Yun-Nung Chen and Eugene Yang
+            &amp;lt;strong&amp;gt;Yu-Chen Den*&amp;lt;/strong&amp;gt;, Zhi Rui Tam*, Yu-Han Chang, Yu-Che Tsai, Kuan-Yu Chen, Pu-Jen Cheng, Yun-Nung Chen, Eugene Yang
         &lt;/div&gt;
         
         &lt;div class=&#34;publication-meta&#34;&gt;
-            &lt;span class=&#34;publication-date&#34;&gt;&lt;/span&gt;
+            &lt;span class=&#34;publication-date&#34;&gt;Submitted to&lt;/span&gt;
+            &lt;span class=&#34;publication-venue&#34;&gt;ACL 2026&lt;/span&gt;
             
-            
-            &lt;span class=&#34;publication-status&#34;&gt;Submitted to ACL &amp;#39;26&lt;/span&gt;
-            
-        &lt;/div&gt;
-        
-        
-        &lt;div class=&#34;publication-tags&#34;&gt;
-            
-            &lt;span class=&#34;publication-tag&#34;&gt;Generative Retrieval&lt;/span&gt;
-            
-            &lt;span class=&#34;publication-tag&#34;&gt;Dialogue Systems&lt;/span&gt;
+            &lt;span class=&#34;publication-tags&#34;&gt;
+                
+                
+                &lt;span class=&#34;publication-tag tag-retrieval&#34;&gt;#Retrieval&lt;/span&gt;
+                
+                
+                &lt;span class=&#34;publication-tag tag-dialogue&#34;&gt;#Dialogue&lt;/span&gt;
+                
+            &lt;/span&gt;
             
         &lt;/div&gt;
         
         
         &lt;div class=&#34;publication-description&#34;&gt;
             
+                
+            
         &lt;/div&gt;
         
         
+        
     &lt;/div&gt;
-    
-    
 &lt;/div&gt;
 
 
 &lt;div class=&#34;publication-item&#34;&gt;
     &lt;div class=&#34;publication-content&#34;&gt;
-        &lt;h3 class=&#34;publication-title&#34;&gt;Does One Pattern Fit All? Image Analysis with Different Equity Styles&lt;/h3&gt;
+        &lt;h5 class=&#34;publication-title&#34;&gt;
+            
+            &lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5025395&#34; target=&#34;_blank&#34;&gt;Does One Pattern Fit All? Image Analysis with Different Equity Styles&lt;/a&gt;
+            
+        &lt;/h5&gt;
         
         &lt;div class=&#34;publication-authors&#34;&gt;
-            &lt;strong&gt;Yu-Chen Den&lt;/strong&gt;, Zong-Wei Yeh, Kendro Vincent
+            &amp;lt;strong&amp;gt;Yu-Chen Den&amp;lt;/strong&amp;gt;, Zong-Wei Yeh, Kendro Vincent
         &lt;/div&gt;
         
         &lt;div class=&#34;publication-meta&#34;&gt;
-            &lt;span class=&#34;publication-date&#34;&gt;&lt;/span&gt;
+            &lt;span class=&#34;publication-date&#34;&gt;Published in&lt;/span&gt;
+            &lt;span class=&#34;publication-venue&#34;&gt;FeAT 2024&lt;/span&gt;
             
-            &lt;span class=&#34;publication-venue&#34;&gt;International Conference of FeAT 2024&lt;/span&gt;
-            
-            
-        &lt;/div&gt;
-        
-        
-        &lt;div class=&#34;publication-tags&#34;&gt;
-            
-            &lt;span class=&#34;publication-tag&#34;&gt;Financial Machine Learning&lt;/span&gt;
-            
-            &lt;span class=&#34;publication-tag&#34;&gt;Computer Vision&lt;/span&gt;
-            
-            &lt;span class=&#34;publication-tag&#34;&gt;Empirical Asset Pricing&lt;/span&gt;
+            &lt;span class=&#34;publication-tags&#34;&gt;
+                
+                
+                &lt;span class=&#34;publication-tag tag-finance&#34;&gt;#Finance&lt;/span&gt;
+                
+                
+                &lt;span class=&#34;publication-tag tag-cv&#34;&gt;#CV&lt;/span&gt;
+                
+            &lt;/span&gt;
             
         &lt;/div&gt;
         
         
         &lt;div class=&#34;publication-description&#34;&gt;
             
+                
+            
         &lt;/div&gt;
+        
         
         
         &lt;div class=&#34;publication-links&#34;&gt;
             
-            
-            &lt;a href=&#34;#ZgotmplZ&#34; class=&#34;publication-link&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;
-            
+            &lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5025395&#34; class=&#34;publication-link&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;
             
             
-            &lt;a href=&#34;#ZgotmplZ&#34; class=&#34;publication-link&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;
+            
+            &lt;a href=&#34;https://github.com/AbnerTeng/Stock-pattern-recognition&#34; class=&#34;publication-link&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;
+            
+            
+            
             
         &lt;/div&gt;
         
     &lt;/div&gt;
-    
-    
 &lt;/div&gt;
 
 
 &lt;div class=&#34;publication-item&#34;&gt;
     &lt;div class=&#34;publication-content&#34;&gt;
-        &lt;h3 class=&#34;publication-title&#34;&gt;Momentum-Informed 52-Week High Prediction Through Latent Image Representation&lt;/h3&gt;
+        &lt;h5 class=&#34;publication-title&#34;&gt;
+            
+            Return Predictability of Universal Commodity Ratio
+            
+        &lt;/h5&gt;
         
         &lt;div class=&#34;publication-authors&#34;&gt;
-            &lt;strong&gt;Yu-Chen Den&lt;/strong&gt;, Kendro Vincent, Zong-Wei Yeh, Ru-En Shih
+            Zong-Wei Yeh*, &amp;lt;strong&amp;gt;Yu-Chen Den*&amp;lt;/strong&amp;gt;
         &lt;/div&gt;
         
         &lt;div class=&#34;publication-meta&#34;&gt;
-            &lt;span class=&#34;publication-date&#34;&gt;&lt;/span&gt;
+            &lt;span class=&#34;publication-date&#34;&gt;In Progress&lt;/span&gt;
             
             
-            &lt;span class=&#34;publication-status&#34;&gt;Work in Progress&lt;/span&gt;
-            
-        &lt;/div&gt;
-        
-        
-        &lt;div class=&#34;publication-tags&#34;&gt;
-            
-            &lt;span class=&#34;publication-tag&#34;&gt;Financial Machine Learning&lt;/span&gt;
-            
-            &lt;span class=&#34;publication-tag&#34;&gt;Empirical Asset Pricing&lt;/span&gt;
+            &lt;span class=&#34;publication-tags&#34;&gt;
+                
+                
+                &lt;span class=&#34;publication-tag tag-finance&#34;&gt;#Finance&lt;/span&gt;
+                
+            &lt;/span&gt;
             
         &lt;/div&gt;
         
         
         &lt;div class=&#34;publication-description&#34;&gt;
             
+                
+            
         &lt;/div&gt;
+        
         
         
     &lt;/div&gt;
-    
-    
 &lt;/div&gt;
 
-
-&lt;div class=&#34;publication-item&#34;&gt;
-    &lt;div class=&#34;publication-content&#34;&gt;
-        &lt;h3 class=&#34;publication-title&#34;&gt;Return Predictability of Universal Commodity Ratio&lt;/h3&gt;
-        
-        &lt;div class=&#34;publication-authors&#34;&gt;
-            Zong-Wei Yeh, &lt;strong&gt;Yu-Chen Den&lt;/strong&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&#34;publication-meta&#34;&gt;
-            &lt;span class=&#34;publication-date&#34;&gt;&lt;/span&gt;
-            
-            
-            &lt;span class=&#34;publication-status&#34;&gt;Work in Progress&lt;/span&gt;
-            
-        &lt;/div&gt;
-        
-        
-        &lt;div class=&#34;publication-tags&#34;&gt;
-            
-            &lt;span class=&#34;publication-tag&#34;&gt;Financial Machine Learning&lt;/span&gt;
-            
-            &lt;span class=&#34;publication-tag&#34;&gt;Empirical Asset Pricing&lt;/span&gt;
-            
-        &lt;/div&gt;
-        
-        
-        &lt;div class=&#34;publication-description&#34;&gt;
-            
-        &lt;/div&gt;
-        
-        
-    &lt;/div&gt;
-    
-    
-&lt;/div&gt;
-
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Last Updated on Feb 9th 2026&lt;/em&gt;&lt;/p&gt;
 </description>
         </item>
         

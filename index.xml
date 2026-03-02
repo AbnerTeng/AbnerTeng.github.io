@@ -1072,6 +1072,44 @@ Member: 陳采妍、曾順偉、黃彥博、施如恩、林沂萱、劉語安、
     &lt;div class=&#34;publication-content&#34;&gt;
         &lt;h5 class=&#34;publication-title&#34;&gt;
             
+            Few-Shot Cross-Table Data Mixture in Tabular In-Context Learning: Benefits, Failure Modes, and Alignment
+            
+        &lt;/h5&gt;
+        
+        &lt;div class=&#34;publication-authors&#34;&gt;
+            Jia-Wei Liao, Kuan-Yu Chen, Yu-Chen Den, Tien Hao Darby Chang
+        &lt;/div&gt;
+        
+        &lt;div class=&#34;publication-meta&#34;&gt;
+            &lt;span class=&#34;publication-date&#34;&gt;Published In&lt;/span&gt;
+            &lt;span class=&#34;publication-venue&#34;&gt;ICLR 2026 DATA-FM Workshop&lt;/span&gt;
+            
+            &lt;span class=&#34;publication-tags&#34;&gt;
+                
+                
+                &lt;span class=&#34;publication-tag tag-tabular&#34;&gt;#Tabular&lt;/span&gt;
+                
+            &lt;/span&gt;
+            
+        &lt;/div&gt;
+        
+        
+        &lt;div class=&#34;publication-description&#34;&gt;
+            
+                
+            
+        &lt;/div&gt;
+        
+        
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;publication-item&#34;&gt;
+    &lt;div class=&#34;publication-content&#34;&gt;
+        &lt;h5 class=&#34;publication-title&#34;&gt;
+            
             Integrating Inductive Biases in Transformers via Distillation for Financial Time Series Forecasting
             
         &lt;/h5&gt;
@@ -1081,8 +1119,8 @@ Member: 陳采妍、曾順偉、黃彥博、施如恩、林沂萱、劉語安、
         &lt;/div&gt;
         
         &lt;div class=&#34;publication-meta&#34;&gt;
-            &lt;span class=&#34;publication-date&#34;&gt;Submitted to&lt;/span&gt;
-            &lt;span class=&#34;publication-venue&#34;&gt;KDD 2026&lt;/span&gt;
+            &lt;span class=&#34;publication-date&#34;&gt;In Submission&lt;/span&gt;
+            
             
             &lt;span class=&#34;publication-tags&#34;&gt;
                 
@@ -1122,13 +1160,13 @@ Member: 陳采妍、曾順偉、黃彥博、施如恩、林沂萱、劉語安、
         &lt;/div&gt;
         
         &lt;div class=&#34;publication-meta&#34;&gt;
-            &lt;span class=&#34;publication-date&#34;&gt;Submitted to&lt;/span&gt;
-            &lt;span class=&#34;publication-venue&#34;&gt;ACL 2026&lt;/span&gt;
+            &lt;span class=&#34;publication-date&#34;&gt;In Submission&lt;/span&gt;
+            
             
             &lt;span class=&#34;publication-tags&#34;&gt;
                 
                 
-                &lt;span class=&#34;publication-tag tag-retrieval&#34;&gt;#Retrieval&lt;/span&gt;
+                &lt;span class=&#34;publication-tag tag-generativeretrieval&#34;&gt;#GenerativeRetrieval&lt;/span&gt;
                 
                 
                 &lt;span class=&#34;publication-tag tag-dialogue&#34;&gt;#Dialogue&lt;/span&gt;

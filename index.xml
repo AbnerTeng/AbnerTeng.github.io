@@ -1077,6 +1077,61 @@ Member: 陳采妍、曾順偉、黃彥博、施如恩、林沂萱、劉語安、
         &lt;/h5&gt;
         
         &lt;div class=&#34;publication-authors&#34;&gt;
+            Yi-Siang Wang, Kuan-Yu Chen, Yu-Chen Den, Tien-Hao Darby Chang
+        &lt;/div&gt;
+        
+        &lt;div class=&#34;publication-meta&#34;&gt;
+            &lt;span class=&#34;publication-date&#34;&gt;In Submission&lt;/span&gt;
+            
+            
+            &lt;span class=&#34;publication-tags&#34;&gt;
+                
+                
+                &lt;span class=&#34;publication-tag tag-tabulardata&#34;&gt;#TabularData&lt;/span&gt;
+                
+                
+                &lt;span class=&#34;publication-tag tag-boosting&#34;&gt;#Boosting&lt;/span&gt;
+                
+                
+                &lt;span class=&#34;publication-tag tag-llm&#34;&gt;#LLM&lt;/span&gt;
+                
+            &lt;/span&gt;
+            
+        &lt;/div&gt;
+        
+        
+        &lt;div class=&#34;publication-description&#34;&gt;
+            
+                
+            
+        &lt;/div&gt;
+        
+        
+        
+        &lt;div class=&#34;publication-links&#34;&gt;
+            
+            &lt;a href=&#34;#ZgotmplZ&#34; class=&#34;publication-link&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;
+            
+            
+            
+            
+            
+            
+        &lt;/div&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;publication-item&#34;&gt;
+    &lt;div class=&#34;publication-content&#34;&gt;
+        &lt;h5 class=&#34;publication-title&#34;&gt;
+            
+            &lt;a href=&#34;#ZgotmplZ&#34; target=&#34;_blank&#34;&gt;Few-Shot Cross-Table Data Mixture in Tabular In-Context Learning: Benefits, Failure Modes, and Alignment&lt;/a&gt;
+            
+        &lt;/h5&gt;
+        
+        &lt;div class=&#34;publication-authors&#34;&gt;
             Jia-Wei Liao, Kuan-Yu Chen, Yu-Chen Den, Tien-Hao Darby Chang
         &lt;/div&gt;
         

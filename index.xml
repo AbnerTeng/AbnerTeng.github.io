@@ -1072,6 +1072,58 @@ Member: 陳采妍、曾順偉、黃彥博、施如恩、林沂萱、劉語安、
     &lt;div class=&#34;publication-content&#34;&gt;
         &lt;h5 class=&#34;publication-title&#34;&gt;
             
+            &lt;a href=&#34;https://arxiv.org/abs/2605.26902&#34; target=&#34;_blank&#34;&gt;ICICLE: Expanding Retrieval with In-Context Documents&lt;/a&gt;
+            
+        &lt;/h5&gt;
+        
+        &lt;div class=&#34;publication-authors&#34;&gt;
+            Yu-Chen Den*, Yung-Yu Shih*, Zhi Rui Tam, Kuan-Yu Chen, Pu-Jen Cheng, Yun-Nung Vivian Chen, Eugene Yang
+        &lt;/div&gt;
+        
+        &lt;div class=&#34;publication-meta&#34;&gt;
+            &lt;span class=&#34;publication-date&#34;&gt;In Submission&lt;/span&gt;
+            
+            
+            &lt;span class=&#34;publication-tags&#34;&gt;
+                
+                
+                &lt;span class=&#34;publication-tag tag-generativeretrieval&#34;&gt;#GenerativeRetrieval&lt;/span&gt;
+                
+                
+                &lt;span class=&#34;publication-tag tag-incrementallearning&#34;&gt;#IncrementalLearning&lt;/span&gt;
+                
+            &lt;/span&gt;
+            
+        &lt;/div&gt;
+        
+        
+        &lt;div class=&#34;publication-description&#34;&gt;
+            
+                
+            
+        &lt;/div&gt;
+        
+        
+        
+        &lt;div class=&#34;publication-links&#34;&gt;
+            
+            &lt;a href=&#34;https://arxiv.org/abs/2605.26902&#34; class=&#34;publication-link&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;
+            
+            
+            
+            
+            
+            
+        &lt;/div&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;publication-item&#34;&gt;
+    &lt;div class=&#34;publication-content&#34;&gt;
+        &lt;h5 class=&#34;publication-title&#34;&gt;
+            
             &lt;a href=&#34;https://arxiv.org/abs/2605.06117&#34; target=&#34;_blank&#34;&gt;BoostLLM: Boosting-inspired LLM Fine-tuning for Few-shot Tabular Classification&lt;/a&gt;
             
         &lt;/h5&gt;

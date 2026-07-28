@@ -1072,6 +1072,58 @@ Member: 陳采妍、曾順偉、黃彥博、施如恩、林沂萱、劉語安、
     &lt;div class=&#34;publication-content&#34;&gt;
         &lt;h5 class=&#34;publication-title&#34;&gt;
             
+            &lt;a href=&#34;https://arxiv.org/abs/2607.24131&#34; target=&#34;_blank&#34;&gt;MAPLE: Efficient and Diverse Multi-Alpha Generation for Portfolio Construction&lt;/a&gt;
+            
+        &lt;/h5&gt;
+        
+        &lt;div class=&#34;publication-authors&#34;&gt;
+            Yu-Chen Den*, Kuan-Yu Chen*, Kendro Vincent, Darby Tien-Hao Chang
+        &lt;/div&gt;
+        
+        &lt;div class=&#34;publication-meta&#34;&gt;
+            &lt;span class=&#34;publication-date&#34;&gt;In Submission&lt;/span&gt;
+            
+            
+            &lt;span class=&#34;publication-tags&#34;&gt;
+                
+                
+                &lt;span class=&#34;publication-tag tag-transformer&#34;&gt;#Transformer&lt;/span&gt;
+                
+                
+                &lt;span class=&#34;publication-tag tag-finance&#34;&gt;#Finance&lt;/span&gt;
+                
+            &lt;/span&gt;
+            
+        &lt;/div&gt;
+        
+        
+        &lt;div class=&#34;publication-description&#34;&gt;
+            
+                
+            
+        &lt;/div&gt;
+        
+        
+        
+        &lt;div class=&#34;publication-links&#34;&gt;
+            
+            &lt;a href=&#34;https://arxiv.org/abs/2607.24131&#34; class=&#34;publication-link&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;
+            
+            
+            
+            
+            
+            
+        &lt;/div&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;publication-item&#34;&gt;
+    &lt;div class=&#34;publication-content&#34;&gt;
+        &lt;h5 class=&#34;publication-title&#34;&gt;
+            
             &lt;a href=&#34;https://arxiv.org/abs/2605.26902&#34; target=&#34;_blank&#34;&gt;ICICLE: Expanding Retrieval with In-Context Documents&lt;/a&gt;
             
         &lt;/h5&gt;
@@ -1129,11 +1181,11 @@ Member: 陳采妍、曾順偉、黃彥博、施如恩、林沂萱、劉語安、
         &lt;/h5&gt;
         
         &lt;div class=&#34;publication-authors&#34;&gt;
-            Yi-Siang Wang, Kuan-Yu Chen, Yu-Chen Den, Tien-Hao Darby Chang
+            Yi-Siang Wang, Kuan-Yu Chen, Yu-Chen Den, Darby Tien-Hao Chang
         &lt;/div&gt;
         
         &lt;div class=&#34;publication-meta&#34;&gt;
-            &lt;span class=&#34;publication-date&#34;&gt;In Submission&lt;/span&gt;
+            &lt;span class=&#34;publication-date&#34;&gt;Preprint&lt;/span&gt;
             
             
             &lt;span class=&#34;publication-tags&#34;&gt;
@@ -1184,7 +1236,7 @@ Member: 陳采妍、曾順偉、黃彥博、施如恩、林沂萱、劉語安、
         &lt;/h5&gt;
         
         &lt;div class=&#34;publication-authors&#34;&gt;
-            Jia-Wei Liao, Kuan-Yu Chen, Yu-Chen Den, Tien-Hao Darby Chang
+            Jia-Wei Liao, Kuan-Yu Chen, Yu-Chen Den, Darby Tien-Hao Chang
         &lt;/div&gt;
         
         &lt;div class=&#34;publication-meta&#34;&gt;
@@ -1236,12 +1288,12 @@ Member: 陳采妍、曾順偉、黃彥博、施如恩、林沂萱、劉語安、
         &lt;/h5&gt;
         
         &lt;div class=&#34;publication-authors&#34;&gt;
-            Yu-Chen Den*, Kuan-Yu Chen*, Kendro Vincent, Tien-Hao Darby Chang
+            Yu-Chen Den*, Kuan-Yu Chen*, Kendro Vincent, Darby Tien-Hao Chang
         &lt;/div&gt;
         
         &lt;div class=&#34;publication-meta&#34;&gt;
             &lt;span class=&#34;publication-date&#34;&gt;Published In&lt;/span&gt;
-            &lt;span class=&#34;publication-venue&#34;&gt;SIGKDD 2026 (Acceptance Rate 18.5%)&lt;/span&gt;
+            &lt;span class=&#34;publication-venue&#34;&gt;KDD 2026&lt;/span&gt;
             
             &lt;span class=&#34;publication-tags&#34;&gt;
                 
@@ -1274,47 +1326,6 @@ Member: 陳采妍、曾順偉、黃彥博、施如恩、林沂萱、劉語安、
             
             
         &lt;/div&gt;
-        
-    &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;publication-item&#34;&gt;
-    &lt;div class=&#34;publication-content&#34;&gt;
-        &lt;h5 class=&#34;publication-title&#34;&gt;
-            
-            Retrieving while Talking: Efficient Multi-Turn Conversational Recommendation via Generative Retrieval
-            
-        &lt;/h5&gt;
-        
-        &lt;div class=&#34;publication-authors&#34;&gt;
-            Yu-Chen Den*, Zhi Rui Tam*, Yu-Han Chang, Yu-Che Tsai, Kuan-Yu Chen, Pu-Jen Cheng, Yun-Nung Chen, Eugene Yang
-        &lt;/div&gt;
-        
-        &lt;div class=&#34;publication-meta&#34;&gt;
-            &lt;span class=&#34;publication-date&#34;&gt;In Submission&lt;/span&gt;
-            
-            
-            &lt;span class=&#34;publication-tags&#34;&gt;
-                
-                
-                &lt;span class=&#34;publication-tag tag-generativeretrieval&#34;&gt;#GenerativeRetrieval&lt;/span&gt;
-                
-                
-                &lt;span class=&#34;publication-tag tag-dialogue&#34;&gt;#Dialogue&lt;/span&gt;
-                
-            &lt;/span&gt;
-            
-        &lt;/div&gt;
-        
-        
-        &lt;div class=&#34;publication-description&#34;&gt;
-            
-                
-            
-        &lt;/div&gt;
-        
-        
         
     &lt;/div&gt;
 &lt;/div&gt;

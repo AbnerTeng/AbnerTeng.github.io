@@ -1062,368 +1062,494 @@ Member: 陳采妍、曾順偉、黃彥博、施如恩、林沂萱、劉語安、
 </description>
         </item>
         <item>
+        <title>About</title>
+        <link>https://abnerteng.github.io/about/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://abnerteng.github.io/about/</guid>
+        <description>&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+
+&lt;div class=&#34;timeline-item education-item&#34;&gt;
+  &lt;div class=&#34;timeline-marker&#34;&gt;&lt;/div&gt;
+  &lt;div class=&#34;timeline-content&#34;&gt;
+    &lt;div class=&#34;timeline-date&#34;&gt;Jun. 2025 – Present&lt;/div&gt;
+    &lt;div class=&#34;timeline-title&#34;&gt;Ph.D. in Computer Science&lt;/div&gt;
+    &lt;div class=&#34;timeline-subtitle&#34;&gt;National Taiwan University&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;timeline-item education-item&#34;&gt;
+  &lt;div class=&#34;timeline-marker&#34;&gt;&lt;/div&gt;
+  &lt;div class=&#34;timeline-content&#34;&gt;
+    &lt;div class=&#34;timeline-date&#34;&gt;Sep. 2022 – Jun. 2024&lt;/div&gt;
+    &lt;div class=&#34;timeline-title&#34;&gt;M.S. in Financial Engineering&lt;/div&gt;
+    &lt;div class=&#34;timeline-subtitle&#34;&gt;National Chengchi University&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;timeline-item education-item&#34;&gt;
+  &lt;div class=&#34;timeline-marker&#34;&gt;&lt;/div&gt;
+  &lt;div class=&#34;timeline-content&#34;&gt;
+    &lt;div class=&#34;timeline-date&#34;&gt;Sep. 2018 – Jun. 2022&lt;/div&gt;
+    &lt;div class=&#34;timeline-title&#34;&gt;B.A. in Public Finance&lt;/div&gt;
+    &lt;div class=&#34;timeline-subtitle&#34;&gt;National Chengchi University&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;
+
+
+
+&lt;div class=&#34;timeline-item experience-item&#34;&gt;
+  &lt;div class=&#34;timeline-marker&#34;&gt;&lt;/div&gt;
+  &lt;div class=&#34;timeline-content&#34;&gt;
+    &lt;div class=&#34;timeline-date&#34;&gt;Jul. 2024 – Present&lt;/div&gt;
+    &lt;div class=&#34;timeline-title&#34;&gt;Research Scientist&lt;/div&gt;
+    &lt;div class=&#34;timeline-subtitle&#34;&gt;AI Lab, SinoPac Holdings&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;timeline-item experience-item&#34;&gt;
+  &lt;div class=&#34;timeline-marker&#34;&gt;&lt;/div&gt;
+  &lt;div class=&#34;timeline-content&#34;&gt;
+    &lt;div class=&#34;timeline-date&#34;&gt;Nov. 2023 – Jun. 2024&lt;/div&gt;
+    &lt;div class=&#34;timeline-title&#34;&gt;Graduate Research Assistant&lt;/div&gt;
+    &lt;div class=&#34;timeline-subtitle&#34;&gt;National Chengchi University&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;timeline-item experience-item&#34;&gt;
+  &lt;div class=&#34;timeline-marker&#34;&gt;&lt;/div&gt;
+  &lt;div class=&#34;timeline-content&#34;&gt;
+    &lt;div class=&#34;timeline-date&#34;&gt;Mar. 2023 – Nov. 2023&lt;/div&gt;
+    &lt;div class=&#34;timeline-title&#34;&gt;Data Scientist Intern&lt;/div&gt;
+    &lt;div class=&#34;timeline-subtitle&#34;&gt;AI Lab, iKala&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;timeline-item experience-item&#34;&gt;
+  &lt;div class=&#34;timeline-marker&#34;&gt;&lt;/div&gt;
+  &lt;div class=&#34;timeline-content&#34;&gt;
+    &lt;div class=&#34;timeline-date&#34;&gt;Nov. 2022 – Mar. 2023&lt;/div&gt;
+    &lt;div class=&#34;timeline-title&#34;&gt;Research Consultant Intern&lt;/div&gt;
+    &lt;div class=&#34;timeline-subtitle&#34;&gt;Brain, WorldQuant LLC.&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;awards--activities&#34;&gt;Awards &amp;amp; Activities&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;COSCUP 2025 Speaker&lt;/strong&gt; · Aug. 2025&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jane Street Real-Time Market Data Forecasting — Top 0.9%&lt;/strong&gt; · Jul. 2025&lt;/li&gt;
+&lt;li&gt;Mentor, Algorithmic Trading Team, TMBA · Jul. 2023 – Present&lt;/li&gt;
+&lt;li&gt;Director of Academic Affairs, NTU DAC · Jun. 2023 – Jun. 2024&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;teaching&#34;&gt;Teaching&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Interpretable Machine Learning · TMBA&lt;/li&gt;
+&lt;li&gt;Python Data Analysis Workshops I &amp;amp; II · NTU DAC&lt;/li&gt;
+&lt;li&gt;Text Mining Workshop · NTU DAC&lt;/li&gt;
+&lt;li&gt;Computer Programming Teaching Assistant · NCCU&lt;/li&gt;
+&lt;li&gt;Graduate Econometrics Teaching Assistant · NCCU&lt;/li&gt;
+&lt;li&gt;Financial Econometrics &amp;amp; Machine Learning Teaching Assistant · NCCU&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;beyond-research&#34;&gt;Beyond Research&lt;/h2&gt;
+&lt;p&gt;I enjoy running and participating in marathons, as well as basketball and pool. I play acoustic and electric guitar and was a member of the NCCU Rock &amp;rsquo;n&amp;rsquo; Roll Club for three years. I am also a fan of Japanese street fashion—especially Needles and Nanamica, and jewelry makers Ken Kikuchi and Horizon Blue.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Publications</title>
         <link>https://abnerteng.github.io/publications/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://abnerteng.github.io/publications/</guid>
-        <description>
-&lt;div class=&#34;publication-item&#34;&gt;
-    &lt;div class=&#34;publication-content&#34;&gt;
-        &lt;h5 class=&#34;publication-title&#34;&gt;
-            
-            &lt;a href=&#34;https://arxiv.org/abs/2607.24131&#34; target=&#34;_blank&#34;&gt;MAPLE: Efficient and Diverse Multi-Alpha Generation for Portfolio Construction&lt;/a&gt;
-            
-        &lt;/h5&gt;
-        
-        &lt;div class=&#34;publication-authors&#34;&gt;
-            Yu-Chen Den*, Kuan-Yu Chen*, Kendro Vincent, Darby Tien-Hao Chang
-        &lt;/div&gt;
-        
-        &lt;div class=&#34;publication-meta&#34;&gt;
-            &lt;span class=&#34;publication-date&#34;&gt;In Submission&lt;/span&gt;
-            
-            
-            &lt;span class=&#34;publication-tags&#34;&gt;
-                
-                
-                &lt;span class=&#34;publication-tag tag-transformer&#34;&gt;#Transformer&lt;/span&gt;
-                
-                
-                &lt;span class=&#34;publication-tag tag-finance&#34;&gt;#Finance&lt;/span&gt;
-                
-            &lt;/span&gt;
-            
-        &lt;/div&gt;
-        
-        
-        &lt;div class=&#34;publication-description&#34;&gt;
-            
-                
-            
-        &lt;/div&gt;
-        
-        
-        
-        &lt;div class=&#34;publication-links&#34;&gt;
-            
-            &lt;a href=&#34;https://arxiv.org/abs/2607.24131&#34; class=&#34;publication-link&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;
-            
-            
-            
-            
-            
-            
-        &lt;/div&gt;
-        
+        <description>&lt;div class=&#34;publication-browser&#34; data-publication-browser&gt;
+    &lt;div class=&#34;publication-browser-copy&#34;&gt;
+        &lt;span class=&#34;eyebrow&#34;&gt;Research library&lt;/span&gt;
+        &lt;h1&gt;Publications&lt;/h1&gt;
+        &lt;p&gt;My work spans generative retrieval, tabular learning, and financial machine learning. Select a topic to explore.&lt;/p&gt;
     &lt;/div&gt;
+    &lt;div class=&#34;publication-filter&#34; role=&#34;group&#34; aria-label=&#34;Filter publications by topic&#34;&gt;
+        &lt;button class=&#34;filter-button is-active&#34; type=&#34;button&#34; data-filter=&#34;all&#34; aria-pressed=&#34;true&#34;&gt;All&lt;/button&gt;
+        &lt;button class=&#34;filter-button&#34; type=&#34;button&#34; data-filter=&#34;#generativeretrieval&#34; aria-pressed=&#34;false&#34;&gt;Generative Retrieval&lt;/button&gt;
+        &lt;button class=&#34;filter-button&#34; type=&#34;button&#34; data-filter=&#34;#tabulardata&#34; aria-pressed=&#34;false&#34;&gt;Tabular ML&lt;/button&gt;
+        &lt;button class=&#34;filter-button&#34; type=&#34;button&#34; data-filter=&#34;#finance&#34; aria-pressed=&#34;false&#34;&gt;Financial ML&lt;/button&gt;
+    &lt;/div&gt;
+    &lt;p class=&#34;publication-count&#34; aria-live=&#34;polite&#34;&gt;&lt;strong data-publication-count&gt;0&lt;/strong&gt; works shown&lt;/p&gt;
 &lt;/div&gt;
 
-
-&lt;div class=&#34;publication-item&#34;&gt;
+&lt;div class=&#34;publication-list&#34;&gt;
+&lt;article class=&#34;publication-item has-preview is-featured&#34;
+    data-publication
+    data-tags=&#34;#finance #transformer&#34;
+    data-type=&#34;preprint&#34;
+    data-year=&#34;2026&#34;&gt;
+    &lt;div class=&#34;publication-accent&#34; aria-hidden=&#34;true&#34;&gt;&lt;/div&gt;
     &lt;div class=&#34;publication-content&#34;&gt;
-        &lt;h5 class=&#34;publication-title&#34;&gt;
-            
-            &lt;a href=&#34;https://arxiv.org/abs/2605.26902&#34; target=&#34;_blank&#34;&gt;ICICLE: Expanding Retrieval with In-Context Documents&lt;/a&gt;
-            
-        &lt;/h5&gt;
-        
-        &lt;div class=&#34;publication-authors&#34;&gt;
-            Yu-Chen Den*, Yung-Yu Shih*, Zhi Rui Tam, Kuan-Yu Chen, Pu-Jen Cheng, Yun-Nung Vivian Chen, Eugene Yang
+        &lt;div class=&#34;publication-heading&#34;&gt;
+            &lt;h2 class=&#34;publication-title&#34;&gt;&lt;a href=&#34;https://arxiv.org/abs/2607.24131&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;MAPLE: Efficient and Diverse Multi-Alpha Generation for Portfolio Construction&lt;/a&gt;&lt;/h2&gt;
         &lt;/div&gt;
-        
+
+        &lt;p class=&#34;publication-authors&#34;&gt;&lt;strong&gt;Yu-Chen Den*&lt;/strong&gt;, Kuan-Yu Chen*, Kendro Vincent, Darby Tien-Hao Chang&lt;/p&gt;
+
         &lt;div class=&#34;publication-meta&#34;&gt;
-            &lt;span class=&#34;publication-date&#34;&gt;In Submission&lt;/span&gt;
-            
-            
-            &lt;span class=&#34;publication-tags&#34;&gt;
-                
-                
-                &lt;span class=&#34;publication-tag tag-generativeretrieval&#34;&gt;#GenerativeRetrieval&lt;/span&gt;
-                
-                
-                &lt;span class=&#34;publication-tag tag-incrementallearning&#34;&gt;#IncrementalLearning&lt;/span&gt;
-                
-            &lt;/span&gt;
-            
-        &lt;/div&gt;
-        
-        
-        &lt;div class=&#34;publication-description&#34;&gt;
+            &lt;span class=&#34;publication-year&#34;&gt;2026&lt;/span&gt;
             
                 
-            
-        &lt;/div&gt;
-        
-        
-        
-        &lt;div class=&#34;publication-links&#34;&gt;
-            
-            &lt;a href=&#34;https://arxiv.org/abs/2605.26902&#34; class=&#34;publication-link&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;
-            
-            
-            
-            
+                &lt;span class=&#34;publication-status&#34;&gt;Preprint&lt;/span&gt;
             
             
         &lt;/div&gt;
+
+        
+
+        
+        &lt;div class=&#34;publication-tags&#34; aria-label=&#34;Research topics&#34;&gt;
+            &lt;button class=&#34;publication-tag tag-finance&#34; type=&#34;button&#34; data-tag-filter=&#34;#finance&#34;&gt;#Finance&lt;/button&gt;
+            &lt;button class=&#34;publication-tag tag-transformer&#34; type=&#34;button&#34; data-tag-filter=&#34;#transformer&#34;&gt;#Transformer&lt;/button&gt;
+            
+        &lt;/div&gt;
+        
+
+        
+        &lt;nav class=&#34;publication-links&#34; aria-label=&#34;Resources for MAPLE: Efficient and Diverse Multi-Alpha Generation for Portfolio Construction&#34;&gt;
+            &lt;a href=&#34;https://arxiv.org/abs/2607.24131&#34; class=&#34;publication-link publication-link-primary&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Paper &lt;span aria-hidden=&#34;true&#34;&gt;&amp;#8599;&lt;/span&gt;&lt;/a&gt;
+            
+            
+            
+            
+            
+        &lt;/nav&gt;
         
     &lt;/div&gt;
-&lt;/div&gt;
+    
+    &lt;figure class=&#34;publication-preview&#34;&gt;
+        &lt;img src=&#34;https://abnerteng.github.io/img/publications/maple.jpg&#34; alt=&#34;Overview figure for MAPLE: Efficient and Diverse Multi-Alpha Generation for Portfolio Construction&#34; loading=&#34;lazy&#34;&gt;
+    &lt;/figure&gt;
+    
+    
+    &lt;span class=&#34;publication-featured-flag&#34; title=&#34;Featured publication&#34; aria-label=&#34;Featured publication&#34;&gt;&lt;/span&gt;
+    
+&lt;/article&gt;
 
-
-&lt;div class=&#34;publication-item&#34;&gt;
+&lt;article class=&#34;publication-item has-preview is-featured&#34;
+    data-publication
+    data-tags=&#34;#generativeretrieval #incrementallearning&#34;
+    data-type=&#34;preprint&#34;
+    data-year=&#34;2026&#34;&gt;
+    &lt;div class=&#34;publication-accent&#34; aria-hidden=&#34;true&#34;&gt;&lt;/div&gt;
     &lt;div class=&#34;publication-content&#34;&gt;
-        &lt;h5 class=&#34;publication-title&#34;&gt;
-            
-            &lt;a href=&#34;https://arxiv.org/abs/2605.06117&#34; target=&#34;_blank&#34;&gt;BoostLLM: Boosting-inspired LLM Fine-tuning for Few-shot Tabular Classification&lt;/a&gt;
-            
-        &lt;/h5&gt;
-        
-        &lt;div class=&#34;publication-authors&#34;&gt;
-            Yi-Siang Wang, Kuan-Yu Chen, Yu-Chen Den, Darby Tien-Hao Chang
+        &lt;div class=&#34;publication-heading&#34;&gt;
+            &lt;h2 class=&#34;publication-title&#34;&gt;&lt;a href=&#34;https://arxiv.org/abs/2605.26902&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ICICLE: Expanding Retrieval with In-Context Documents&lt;/a&gt;&lt;/h2&gt;
         &lt;/div&gt;
-        
+
+        &lt;p class=&#34;publication-authors&#34;&gt;&lt;strong&gt;Yu-Chen Den*&lt;/strong&gt;, Yung-Yu Shih*, Zhi Rui Tam, Kuan-Yu Chen, Pu-Jen Cheng, Yun-Nung Vivian Chen, Eugene Yang&lt;/p&gt;
+
         &lt;div class=&#34;publication-meta&#34;&gt;
-            &lt;span class=&#34;publication-date&#34;&gt;Preprint&lt;/span&gt;
-            
-            
-            &lt;span class=&#34;publication-tags&#34;&gt;
-                
-                
-                &lt;span class=&#34;publication-tag tag-tabulardata&#34;&gt;#TabularData&lt;/span&gt;
-                
-                
-                &lt;span class=&#34;publication-tag tag-boosting&#34;&gt;#Boosting&lt;/span&gt;
-                
-                
-                &lt;span class=&#34;publication-tag tag-llm&#34;&gt;#LLM&lt;/span&gt;
-                
-            &lt;/span&gt;
-            
-        &lt;/div&gt;
-        
-        
-        &lt;div class=&#34;publication-description&#34;&gt;
+            &lt;span class=&#34;publication-year&#34;&gt;2026&lt;/span&gt;
             
                 
-            
-        &lt;/div&gt;
-        
-        
-        
-        &lt;div class=&#34;publication-links&#34;&gt;
-            
-            &lt;a href=&#34;https://arxiv.org/abs/2605.06117&#34; class=&#34;publication-link&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;
-            
-            
-            
-            
+                &lt;span class=&#34;publication-status&#34;&gt;Preprint&lt;/span&gt;
             
             
         &lt;/div&gt;
+
+        
+
+        
+        &lt;div class=&#34;publication-tags&#34; aria-label=&#34;Research topics&#34;&gt;
+            &lt;button class=&#34;publication-tag tag-generativeretrieval&#34; type=&#34;button&#34; data-tag-filter=&#34;#generativeretrieval&#34;&gt;#GenerativeRetrieval&lt;/button&gt;
+            &lt;button class=&#34;publication-tag tag-incrementallearning&#34; type=&#34;button&#34; data-tag-filter=&#34;#incrementallearning&#34;&gt;#IncrementalLearning&lt;/button&gt;
+            
+        &lt;/div&gt;
+        
+
+        
+        &lt;nav class=&#34;publication-links&#34; aria-label=&#34;Resources for ICICLE: Expanding Retrieval with In-Context Documents&#34;&gt;
+            &lt;a href=&#34;https://arxiv.org/abs/2605.26902&#34; class=&#34;publication-link publication-link-primary&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Paper &lt;span aria-hidden=&#34;true&#34;&gt;&amp;#8599;&lt;/span&gt;&lt;/a&gt;
+            
+            
+            
+            
+            
+        &lt;/nav&gt;
         
     &lt;/div&gt;
-&lt;/div&gt;
+    
+    &lt;figure class=&#34;publication-preview&#34;&gt;
+        &lt;img src=&#34;https://abnerteng.github.io/img/publications/icicle.jpg&#34; alt=&#34;Overview figure for ICICLE: Expanding Retrieval with In-Context Documents&#34; loading=&#34;lazy&#34;&gt;
+    &lt;/figure&gt;
+    
+    
+    &lt;span class=&#34;publication-featured-flag&#34; title=&#34;Featured publication&#34; aria-label=&#34;Featured publication&#34;&gt;&lt;/span&gt;
+    
+&lt;/article&gt;
 
-
-&lt;div class=&#34;publication-item&#34;&gt;
+&lt;article class=&#34;publication-item has-preview&#34;
+    data-publication
+    data-tags=&#34;#tabulardata #boosting #llm&#34;
+    data-type=&#34;preprint&#34;
+    data-year=&#34;2026&#34;&gt;
+    &lt;div class=&#34;publication-accent&#34; aria-hidden=&#34;true&#34;&gt;&lt;/div&gt;
     &lt;div class=&#34;publication-content&#34;&gt;
-        &lt;h5 class=&#34;publication-title&#34;&gt;
+        &lt;div class=&#34;publication-heading&#34;&gt;
+            &lt;h2 class=&#34;publication-title&#34;&gt;&lt;a href=&#34;https://arxiv.org/abs/2605.06117&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;BoostLLM: Boosting-inspired LLM Fine-tuning for Few-shot Tabular Classification&lt;/a&gt;&lt;/h2&gt;
+        &lt;/div&gt;
+
+        &lt;p class=&#34;publication-authors&#34;&gt;Yi-Siang Wang, Kuan-Yu Chen, &lt;strong&gt;Yu-Chen Den&lt;/strong&gt;, Darby Tien-Hao Chang&lt;/p&gt;
+
+        &lt;div class=&#34;publication-meta&#34;&gt;
+            &lt;span class=&#34;publication-year&#34;&gt;2026&lt;/span&gt;
             
-            &lt;a href=&#34;https://openreview.net/forum?id=a92XmeUn3U&#34; target=&#34;_blank&#34;&gt;Few-Shot Cross-Table Data Mixture in Tabular In-Context Learning: Benefits, Failure Modes, and Alignment&lt;/a&gt;
+                
+                &lt;span class=&#34;publication-status&#34;&gt;Preprint&lt;/span&gt;
             
-        &lt;/h5&gt;
+            
+        &lt;/div&gt;
+
         
-        &lt;div class=&#34;publication-authors&#34;&gt;
-            Jia-Wei Liao, Kuan-Yu Chen, Yu-Chen Den, Darby Tien-Hao Chang
+
+        
+        &lt;div class=&#34;publication-tags&#34; aria-label=&#34;Research topics&#34;&gt;
+            &lt;button class=&#34;publication-tag tag-tabulardata&#34; type=&#34;button&#34; data-tag-filter=&#34;#tabulardata&#34;&gt;#TabularData&lt;/button&gt;
+            &lt;button class=&#34;publication-tag tag-boosting&#34; type=&#34;button&#34; data-tag-filter=&#34;#boosting&#34;&gt;#Boosting&lt;/button&gt;
+            &lt;button class=&#34;publication-tag tag-llm&#34; type=&#34;button&#34; data-tag-filter=&#34;#llm&#34;&gt;#LLM&lt;/button&gt;
+            
         &lt;/div&gt;
         
+
+        
+        &lt;nav class=&#34;publication-links&#34; aria-label=&#34;Resources for BoostLLM: Boosting-inspired LLM Fine-tuning for Few-shot Tabular Classification&#34;&gt;
+            &lt;a href=&#34;https://arxiv.org/abs/2605.06117&#34; class=&#34;publication-link publication-link-primary&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Paper &lt;span aria-hidden=&#34;true&#34;&gt;&amp;#8599;&lt;/span&gt;&lt;/a&gt;
+            
+            
+            
+            
+            
+        &lt;/nav&gt;
+        
+    &lt;/div&gt;
+    
+    &lt;figure class=&#34;publication-preview&#34;&gt;
+        &lt;img src=&#34;https://abnerteng.github.io/img/publications/boostllm.jpg&#34; alt=&#34;Overview figure for BoostLLM: Boosting-inspired LLM Fine-tuning for Few-shot Tabular Classification&#34; loading=&#34;lazy&#34;&gt;
+    &lt;/figure&gt;
+    
+    
+&lt;/article&gt;
+
+&lt;article class=&#34;publication-item&#34;
+    data-publication
+    data-tags=&#34;#tabulardata #incontextlearning&#34;
+    data-type=&#34;workshop&#34;
+    data-year=&#34;2026&#34;&gt;
+    &lt;div class=&#34;publication-accent&#34; aria-hidden=&#34;true&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;publication-content&#34;&gt;
+        &lt;div class=&#34;publication-heading&#34;&gt;
+            &lt;h2 class=&#34;publication-title&#34;&gt;&lt;a href=&#34;https://openreview.net/forum?id=a92XmeUn3U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Few-Shot Cross-Table Data Mixture in Tabular In-Context Learning: Benefits, Failure Modes, and Alignment&lt;/a&gt;&lt;/h2&gt;
+        &lt;/div&gt;
+
+        &lt;p class=&#34;publication-authors&#34;&gt;Jia-Wei Liao, Kuan-Yu Chen, &lt;strong&gt;Yu-Chen Den&lt;/strong&gt;, Darby Tien-Hao Chang&lt;/p&gt;
+
         &lt;div class=&#34;publication-meta&#34;&gt;
-            &lt;span class=&#34;publication-date&#34;&gt;Published In&lt;/span&gt;
+            &lt;span class=&#34;publication-year&#34;&gt;2026&lt;/span&gt;
+            
+                
+                
+            
             &lt;span class=&#34;publication-venue&#34;&gt;ICLR 2026 DATA-FM Workshop&lt;/span&gt;
-            
-            &lt;span class=&#34;publication-tags&#34;&gt;
-                
-                
-                &lt;span class=&#34;publication-tag tag-tabulardata&#34;&gt;#TabularData&lt;/span&gt;
-                
-                
-                &lt;span class=&#34;publication-tag tag-incontextlearning&#34;&gt;#InContextLearning&lt;/span&gt;
-                
-            &lt;/span&gt;
+        &lt;/div&gt;
+
+        
+
+        
+        &lt;div class=&#34;publication-tags&#34; aria-label=&#34;Research topics&#34;&gt;
+            &lt;button class=&#34;publication-tag tag-tabulardata&#34; type=&#34;button&#34; data-tag-filter=&#34;#tabulardata&#34;&gt;#TabularData&lt;/button&gt;
+            &lt;button class=&#34;publication-tag tag-incontextlearning&#34; type=&#34;button&#34; data-tag-filter=&#34;#incontextlearning&#34;&gt;#InContextLearning&lt;/button&gt;
             
         &lt;/div&gt;
         
+
         
-        &lt;div class=&#34;publication-description&#34;&gt;
-            
-                
-            
-        &lt;/div&gt;
-        
-        
-        
-        &lt;div class=&#34;publication-links&#34;&gt;
-            
-            &lt;a href=&#34;https://openreview.net/forum?id=a92XmeUn3U&#34; class=&#34;publication-link&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;
+        &lt;nav class=&#34;publication-links&#34; aria-label=&#34;Resources for Few-Shot Cross-Table Data Mixture in Tabular In-Context Learning: Benefits, Failure Modes, and Alignment&#34;&gt;
+            &lt;a href=&#34;https://openreview.net/forum?id=a92XmeUn3U&#34; class=&#34;publication-link publication-link-primary&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Paper &lt;span aria-hidden=&#34;true&#34;&gt;&amp;#8599;&lt;/span&gt;&lt;/a&gt;
             
             
             
             
             
-            
-        &lt;/div&gt;
+        &lt;/nav&gt;
         
     &lt;/div&gt;
-&lt;/div&gt;
+    
+    
+&lt;/article&gt;
 
-
-&lt;div class=&#34;publication-item&#34;&gt;
+&lt;article class=&#34;publication-item has-preview is-featured&#34;
+    data-publication
+    data-tags=&#34;#finance #transformer&#34;
+    data-type=&#34;conference&#34;
+    data-year=&#34;2026&#34;&gt;
+    &lt;div class=&#34;publication-accent&#34; aria-hidden=&#34;true&#34;&gt;&lt;/div&gt;
     &lt;div class=&#34;publication-content&#34;&gt;
-        &lt;h5 class=&#34;publication-title&#34;&gt;
-            
-            &lt;a href=&#34;https://arxiv.org/abs/2603.16985&#34; target=&#34;_blank&#34;&gt;Integrating Inductive Biases in Transformers via Distillation for Financial Time Series Forecasting&lt;/a&gt;
-            
-        &lt;/h5&gt;
-        
-        &lt;div class=&#34;publication-authors&#34;&gt;
-            Yu-Chen Den*, Kuan-Yu Chen*, Kendro Vincent, Darby Tien-Hao Chang
+        &lt;div class=&#34;publication-heading&#34;&gt;
+            &lt;h2 class=&#34;publication-title&#34;&gt;&lt;a href=&#34;https://arxiv.org/abs/2603.16985&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Integrating Inductive Biases in Transformers via Distillation for Financial Time Series Forecasting&lt;/a&gt;&lt;/h2&gt;
         &lt;/div&gt;
-        
+
+        &lt;p class=&#34;publication-authors&#34;&gt;&lt;strong&gt;Yu-Chen Den*&lt;/strong&gt;, Kuan-Yu Chen*, Kendro Vincent, Darby Tien-Hao Chang&lt;/p&gt;
+
         &lt;div class=&#34;publication-meta&#34;&gt;
-            &lt;span class=&#34;publication-date&#34;&gt;Published In&lt;/span&gt;
+            &lt;span class=&#34;publication-year&#34;&gt;2026&lt;/span&gt;
+            
+                
+                
+            
             &lt;span class=&#34;publication-venue&#34;&gt;KDD 2026&lt;/span&gt;
-            
-            &lt;span class=&#34;publication-tags&#34;&gt;
-                
-                
-                &lt;span class=&#34;publication-tag tag-transformer&#34;&gt;#Transformer&lt;/span&gt;
-                
-                
-                &lt;span class=&#34;publication-tag tag-finance&#34;&gt;#Finance&lt;/span&gt;
-                
-            &lt;/span&gt;
+        &lt;/div&gt;
+
+        
+
+        
+        &lt;div class=&#34;publication-tags&#34; aria-label=&#34;Research topics&#34;&gt;
+            &lt;button class=&#34;publication-tag tag-finance&#34; type=&#34;button&#34; data-tag-filter=&#34;#finance&#34;&gt;#Finance&lt;/button&gt;
+            &lt;button class=&#34;publication-tag tag-transformer&#34; type=&#34;button&#34; data-tag-filter=&#34;#transformer&#34;&gt;#Transformer&lt;/button&gt;
             
         &lt;/div&gt;
         
+
         
-        &lt;div class=&#34;publication-description&#34;&gt;
+        &lt;nav class=&#34;publication-links&#34; aria-label=&#34;Resources for Integrating Inductive Biases in Transformers via Distillation for Financial Time Series Forecasting&#34;&gt;
+            &lt;a href=&#34;https://arxiv.org/abs/2603.16985&#34; class=&#34;publication-link publication-link-primary&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Paper &lt;span aria-hidden=&#34;true&#34;&gt;&amp;#8599;&lt;/span&gt;&lt;/a&gt;
             
-                
-            
-        &lt;/div&gt;
-        
-        
-        
-        &lt;div class=&#34;publication-links&#34;&gt;
-            
-            &lt;a href=&#34;https://arxiv.org/abs/2603.16985&#34; class=&#34;publication-link&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;
+            &lt;a href=&#34;https://github.com/AbnerTeng/TIPS&#34; class=&#34;publication-link&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Code &lt;span aria-hidden=&#34;true&#34;&gt;&amp;#8599;&lt;/span&gt;&lt;/a&gt;
+            &lt;a href=&#34;https://drive.google.com/file/d/1Bh7p_5AgFqqIN_5PBfp4YdEEO8bor0Su/view?usp=sharing&#34; class=&#34;publication-link publication-link-poster&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Poster &lt;span aria-hidden=&#34;true&#34;&gt;&amp;#8599;&lt;/span&gt;&lt;/a&gt;
             
             
-            
-            
-            
-            
-        &lt;/div&gt;
+        &lt;/nav&gt;
         
     &lt;/div&gt;
-&lt;/div&gt;
+    
+    &lt;figure class=&#34;publication-preview&#34;&gt;
+        &lt;img src=&#34;https://abnerteng.github.io/img/publications/tips.jpg&#34; alt=&#34;Overview figure for Integrating Inductive Biases in Transformers via Distillation for Financial Time Series Forecasting&#34; loading=&#34;lazy&#34;&gt;
+    &lt;/figure&gt;
+    
+    
+    &lt;span class=&#34;publication-featured-flag&#34; title=&#34;Featured publication&#34; aria-label=&#34;Featured publication&#34;&gt;&lt;/span&gt;
+    
+&lt;/article&gt;
 
-
-&lt;div class=&#34;publication-item&#34;&gt;
+&lt;article class=&#34;publication-item&#34;
+    data-publication
+    data-tags=&#34;#finance #cv&#34;
+    data-type=&#34;conference&#34;
+    data-year=&#34;2024&#34;&gt;
+    &lt;div class=&#34;publication-accent&#34; aria-hidden=&#34;true&#34;&gt;&lt;/div&gt;
     &lt;div class=&#34;publication-content&#34;&gt;
-        &lt;h5 class=&#34;publication-title&#34;&gt;
-            
-            &lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5025395&#34; target=&#34;_blank&#34;&gt;Does One Pattern Fit All? Image Analysis with Different Equity Styles&lt;/a&gt;
-            
-        &lt;/h5&gt;
-        
-        &lt;div class=&#34;publication-authors&#34;&gt;
-            Yu-Chen Den, Zong-Wei Yeh, Kendro Vincent
+        &lt;div class=&#34;publication-heading&#34;&gt;
+            &lt;h2 class=&#34;publication-title&#34;&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5025395&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Does One Pattern Fit All? Image Analysis with Different Equity Styles&lt;/a&gt;&lt;/h2&gt;
         &lt;/div&gt;
-        
+
+        &lt;p class=&#34;publication-authors&#34;&gt;&lt;strong&gt;Yu-Chen Den&lt;/strong&gt;, Zong-Wei Yeh, Kendro Vincent&lt;/p&gt;
+
         &lt;div class=&#34;publication-meta&#34;&gt;
-            &lt;span class=&#34;publication-date&#34;&gt;Published in&lt;/span&gt;
+            &lt;span class=&#34;publication-year&#34;&gt;2024&lt;/span&gt;
+            
+                
+                
+            
             &lt;span class=&#34;publication-venue&#34;&gt;FeAT 2024&lt;/span&gt;
-            
-            &lt;span class=&#34;publication-tags&#34;&gt;
-                
-                
-                &lt;span class=&#34;publication-tag tag-finance&#34;&gt;#Finance&lt;/span&gt;
-                
-                
-                &lt;span class=&#34;publication-tag tag-cv&#34;&gt;#CV&lt;/span&gt;
-                
-            &lt;/span&gt;
+        &lt;/div&gt;
+
+        
+        &lt;div class=&#34;publication-description&#34;&gt;We analyze stock patterns using computer vision techniques across different equity styles.&lt;/div&gt;
+        
+
+        
+        &lt;div class=&#34;publication-tags&#34; aria-label=&#34;Research topics&#34;&gt;
+            &lt;button class=&#34;publication-tag tag-finance&#34; type=&#34;button&#34; data-tag-filter=&#34;#finance&#34;&gt;#Finance&lt;/button&gt;
+            &lt;button class=&#34;publication-tag tag-cv&#34; type=&#34;button&#34; data-tag-filter=&#34;#cv&#34;&gt;#CV&lt;/button&gt;
             
         &lt;/div&gt;
         
+
         
-        &lt;div class=&#34;publication-description&#34;&gt;
+        &lt;nav class=&#34;publication-links&#34; aria-label=&#34;Resources for Does One Pattern Fit All? Image Analysis with Different Equity Styles&#34;&gt;
+            &lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5025395&#34; class=&#34;publication-link publication-link-primary&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Paper &lt;span aria-hidden=&#34;true&#34;&gt;&amp;#8599;&lt;/span&gt;&lt;/a&gt;
             
-                
-            
-        &lt;/div&gt;
-        
-        
-        
-        &lt;div class=&#34;publication-links&#34;&gt;
-            
-            &lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5025395&#34; class=&#34;publication-link&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;
+            &lt;a href=&#34;https://github.com/AbnerTeng/Stock-pattern-recognition&#34; class=&#34;publication-link&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Code &lt;span aria-hidden=&#34;true&#34;&gt;&amp;#8599;&lt;/span&gt;&lt;/a&gt;
             
             
             
-            &lt;a href=&#34;https://github.com/AbnerTeng/Stock-pattern-recognition&#34; class=&#34;publication-link&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;
-            
-            
-            
-            
-        &lt;/div&gt;
+        &lt;/nav&gt;
         
     &lt;/div&gt;
-&lt;/div&gt;
+    
+    
+&lt;/article&gt;
 
-
-&lt;div class=&#34;publication-item&#34;&gt;
+&lt;article class=&#34;publication-item&#34;
+    data-publication
+    data-tags=&#34;#finance&#34;
+    data-type=&#34;in-progress&#34;
+    data-year=&#34;&#34;&gt;
+    &lt;div class=&#34;publication-accent&#34; aria-hidden=&#34;true&#34;&gt;&lt;/div&gt;
     &lt;div class=&#34;publication-content&#34;&gt;
-        &lt;h5 class=&#34;publication-title&#34;&gt;
-            
-            Return Predictability of Universal Commodity Ratio
-            
-        &lt;/h5&gt;
-        
-        &lt;div class=&#34;publication-authors&#34;&gt;
-            Zong-Wei Yeh*, Yu-Chen Den*
+        &lt;div class=&#34;publication-heading&#34;&gt;
+            &lt;h2 class=&#34;publication-title&#34;&gt;Return Predictability of Universal Commodity Ratio&lt;/h2&gt;
         &lt;/div&gt;
-        
+
+        &lt;p class=&#34;publication-authors&#34;&gt;Zong-Wei Yeh*, &lt;strong&gt;Yu-Chen Den*&lt;/strong&gt;&lt;/p&gt;
+
         &lt;div class=&#34;publication-meta&#34;&gt;
-            &lt;span class=&#34;publication-date&#34;&gt;In Progress&lt;/span&gt;
             
             
-            &lt;span class=&#34;publication-tags&#34;&gt;
                 
-                
-                &lt;span class=&#34;publication-tag tag-finance&#34;&gt;#Finance&lt;/span&gt;
-                
-            &lt;/span&gt;
+                &lt;span class=&#34;publication-status&#34;&gt;In progress&lt;/span&gt;
+            
+            
+        &lt;/div&gt;
+
+        
+        &lt;div class=&#34;publication-description&#34;&gt;We explore commodity ratio strategies for return predictability.&lt;/div&gt;
+        
+
+        
+        &lt;div class=&#34;publication-tags&#34; aria-label=&#34;Research topics&#34;&gt;
+            &lt;button class=&#34;publication-tag tag-finance&#34; type=&#34;button&#34; data-tag-filter=&#34;#finance&#34;&gt;#Finance&lt;/button&gt;
             
         &lt;/div&gt;
         
-        
-        &lt;div class=&#34;publication-description&#34;&gt;
-            
-                
-            
-        &lt;/div&gt;
-        
-        
+
         
     &lt;/div&gt;
-&lt;/div&gt;
+    
+    
+&lt;/article&gt;
 
-&lt;hr&gt;
-&lt;p&gt;&lt;em&gt;Last Updated on Feb 9th 2026&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p class=&#34;publication-note&#34;&gt;&lt;strong&gt;*&lt;/strong&gt; Equal contribution · Last updated August 2026&lt;/p&gt;
 </description>
         </item>
         

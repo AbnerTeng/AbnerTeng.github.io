@@ -1,0 +1,8 @@
+(()=>{var n=document.querySelector("[data-publication-browser]"),a=document.getElementById("dark-mode-toggle"),c=document.querySelector(".main-container");a&&c&&(c.appendChild(a),a.setAttribute("aria-label","Toggle color scheme"),a.innerHTML=`
+        <svg class="theme-icon theme-icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M21 12.8A9 9 0 1 1 11.2 3 7 7 0 0 0 21 12.8z"></path>
+        </svg>
+        <svg class="theme-icon theme-icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="12" cy="12" r="4"></circle>
+            <path d="M12 2v2M12 20v2M4.93 4.93l1.42 1.42M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.42-1.42M17.66 6.34l1.41-1.41"></path>
+        </svg>`);if(n){let d=Array.from(document.querySelectorAll("[data-publication]")),u=Array.from(n.querySelectorAll("[data-filter]")),i=n.querySelector("[data-publication-count]"),l=e=>{let t=0;d.forEach(o=>{let r=o.dataset.tags??"",s=e==="all"||r.includes(e);o.hidden=!s,s&&(t+=1)}),u.forEach(o=>{let r=o.dataset.filter===e;o.classList.toggle("is-active",r),o.setAttribute("aria-pressed",String(r))}),i&&(i.textContent=String(t))};n.addEventListener("click",e=>{let t=e.target.closest("[data-filter]");t?.dataset.filter&&l(t.dataset.filter)}),document.addEventListener("click",e=>{let t=e.target.closest("[data-tag-filter]");t?.dataset.tagFilter&&(l(t.dataset.tagFilter),n.scrollIntoView({behavior:"smooth",block:"start"}))}),l("all")}})();

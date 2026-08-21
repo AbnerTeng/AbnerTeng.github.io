@@ -1210,7 +1210,7 @@ Member: 陳采妍、曾順偉、黃彥博、施如恩、林沂萱、劉語安、
     &lt;div class=&#34;publication-accent&#34; aria-hidden=&#34;true&#34;&gt;&lt;/div&gt;
     &lt;div class=&#34;publication-content&#34;&gt;
         &lt;div class=&#34;publication-heading&#34;&gt;
-            &lt;h2 class=&#34;publication-title&#34;&gt;&lt;a href=&#34;https://arxiv.org/abs/2607.24131&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;MAPLE: Efficient and Diverse Multi-Alpha Generation for Portfolio Construction&lt;/a&gt;&lt;/h2&gt;
+            &lt;h2 class=&#34;publication-title&#34;&gt;&lt;a href=&#34;#ZgotmplZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;MAPLE: Efficient and Diverse Multi-Alpha Generation for Portfolio Construction&lt;/a&gt;&lt;/h2&gt;
         &lt;/div&gt;
 
         &lt;p class=&#34;publication-authors&#34;&gt;&lt;strong&gt;Yu-Chen Den*&lt;/strong&gt;, Kuan-Yu Chen*, Kendro Vincent, Darby Tien-Hao Chang&lt;/p&gt;
@@ -1236,7 +1236,7 @@ Member: 陳采妍、曾順偉、黃彥博、施如恩、林沂萱、劉語安、
 
         
         &lt;nav class=&#34;publication-links&#34; aria-label=&#34;Resources for MAPLE: Efficient and Diverse Multi-Alpha Generation for Portfolio Construction&#34;&gt;
-            &lt;a href=&#34;https://arxiv.org/abs/2607.24131&#34; class=&#34;publication-link publication-link-primary&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Paper &lt;span aria-hidden=&#34;true&#34;&gt;&amp;#8599;&lt;/span&gt;&lt;/a&gt;
+            &lt;a href=&#34;#ZgotmplZ&#34; class=&#34;publication-link publication-link-primary&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Paper &lt;span aria-hidden=&#34;true&#34;&gt;&amp;#8599;&lt;/span&gt;&lt;/a&gt;
             
             
             
@@ -1258,12 +1258,12 @@ Member: 陳采妍、曾順偉、黃彥博、施如恩、林沂萱、劉語安、
 &lt;article class=&#34;publication-item has-preview is-featured&#34;
     data-publication
     data-tags=&#34;#generativeretrieval #incrementallearning&#34;
-    data-type=&#34;preprint&#34;
+    data-type=&#34;conference&#34;
     data-year=&#34;2026&#34;&gt;
     &lt;div class=&#34;publication-accent&#34; aria-hidden=&#34;true&#34;&gt;&lt;/div&gt;
     &lt;div class=&#34;publication-content&#34;&gt;
         &lt;div class=&#34;publication-heading&#34;&gt;
-            &lt;h2 class=&#34;publication-title&#34;&gt;&lt;a href=&#34;https://arxiv.org/abs/2605.26902&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ICICLE: Expanding Retrieval with In-Context Documents&lt;/a&gt;&lt;/h2&gt;
+            &lt;h2 class=&#34;publication-title&#34;&gt;&lt;a href=&#34;#ZgotmplZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ICICLE: Expanding Retrieval with In-Context Documents&lt;/a&gt;&lt;/h2&gt;
         &lt;/div&gt;
 
         &lt;p class=&#34;publication-authors&#34;&gt;&lt;strong&gt;Yu-Chen Den*&lt;/strong&gt;, Yung-Yu Shih*, Zhi Rui Tam, Kuan-Yu Chen, Pu-Jen Cheng, Yun-Nung Vivian Chen, Eugene Yang&lt;/p&gt;
@@ -1272,9 +1272,9 @@ Member: 陳采妍、曾順偉、黃彥博、施如恩、林沂萱、劉語安、
             &lt;span class=&#34;publication-year&#34;&gt;2026&lt;/span&gt;
             
                 
-                &lt;span class=&#34;publication-status&#34;&gt;Preprint&lt;/span&gt;
+                
             
-            
+            &lt;span class=&#34;publication-venue&#34;&gt;EMNLP 2026&lt;/span&gt;
         &lt;/div&gt;
 
         
@@ -1289,7 +1289,7 @@ Member: 陳采妍、曾順偉、黃彥博、施如恩、林沂萱、劉語安、
 
         
         &lt;nav class=&#34;publication-links&#34; aria-label=&#34;Resources for ICICLE: Expanding Retrieval with In-Context Documents&#34;&gt;
-            &lt;a href=&#34;https://arxiv.org/abs/2605.26902&#34; class=&#34;publication-link publication-link-primary&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Paper &lt;span aria-hidden=&#34;true&#34;&gt;&amp;#8599;&lt;/span&gt;&lt;/a&gt;
+            &lt;a href=&#34;#ZgotmplZ&#34; class=&#34;publication-link publication-link-primary&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Paper &lt;span aria-hidden=&#34;true&#34;&gt;&amp;#8599;&lt;/span&gt;&lt;/a&gt;
             
             
             
@@ -1316,7 +1316,7 @@ Member: 陳采妍、曾順偉、黃彥博、施如恩、林沂萱、劉語安、
     &lt;div class=&#34;publication-accent&#34; aria-hidden=&#34;true&#34;&gt;&lt;/div&gt;
     &lt;div class=&#34;publication-content&#34;&gt;
         &lt;div class=&#34;publication-heading&#34;&gt;
-            &lt;h2 class=&#34;publication-title&#34;&gt;&lt;a href=&#34;https://arxiv.org/abs/2605.06117&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;BoostLLM: Boosting-inspired LLM Fine-tuning for Few-shot Tabular Classification&lt;/a&gt;&lt;/h2&gt;
+            &lt;h2 class=&#34;publication-title&#34;&gt;&lt;a href=&#34;#ZgotmplZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;BoostLLM: Boosting-inspired LLM Fine-tuning for Few-shot Tabular Classification&lt;/a&gt;&lt;/h2&gt;
         &lt;/div&gt;
 
         &lt;p class=&#34;publication-authors&#34;&gt;Yi-Siang Wang, Kuan-Yu Chen, &lt;strong&gt;Yu-Chen Den&lt;/strong&gt;, Darby Tien-Hao Chang&lt;/p&gt;
@@ -1343,7 +1343,7 @@ Member: 陳采妍、曾順偉、黃彥博、施如恩、林沂萱、劉語安、
 
         
         &lt;nav class=&#34;publication-links&#34; aria-label=&#34;Resources for BoostLLM: Boosting-inspired LLM Fine-tuning for Few-shot Tabular Classification&#34;&gt;
-            &lt;a href=&#34;https://arxiv.org/abs/2605.06117&#34; class=&#34;publication-link publication-link-primary&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Paper &lt;span aria-hidden=&#34;true&#34;&gt;&amp;#8599;&lt;/span&gt;&lt;/a&gt;
+            &lt;a href=&#34;#ZgotmplZ&#34; class=&#34;publication-link publication-link-primary&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Paper &lt;span aria-hidden=&#34;true&#34;&gt;&amp;#8599;&lt;/span&gt;&lt;/a&gt;
             
             
             
@@ -1368,7 +1368,7 @@ Member: 陳采妍、曾順偉、黃彥博、施如恩、林沂萱、劉語安、
     &lt;div class=&#34;publication-accent&#34; aria-hidden=&#34;true&#34;&gt;&lt;/div&gt;
     &lt;div class=&#34;publication-content&#34;&gt;
         &lt;div class=&#34;publication-heading&#34;&gt;
-            &lt;h2 class=&#34;publication-title&#34;&gt;&lt;a href=&#34;https://openreview.net/forum?id=a92XmeUn3U&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Few-Shot Cross-Table Data Mixture in Tabular In-Context Learning: Benefits, Failure Modes, and Alignment&lt;/a&gt;&lt;/h2&gt;
+            &lt;h2 class=&#34;publication-title&#34;&gt;&lt;a href=&#34;#ZgotmplZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Few-Shot Cross-Table Data Mixture in Tabular In-Context Learning: Benefits, Failure Modes, and Alignment&lt;/a&gt;&lt;/h2&gt;
         &lt;/div&gt;
 
         &lt;p class=&#34;publication-authors&#34;&gt;Jia-Wei Liao, Kuan-Yu Chen, &lt;strong&gt;Yu-Chen Den&lt;/strong&gt;, Darby Tien-Hao Chang&lt;/p&gt;
@@ -1394,7 +1394,7 @@ Member: 陳采妍、曾順偉、黃彥博、施如恩、林沂萱、劉語安、
 
         
         &lt;nav class=&#34;publication-links&#34; aria-label=&#34;Resources for Few-Shot Cross-Table Data Mixture in Tabular In-Context Learning: Benefits, Failure Modes, and Alignment&#34;&gt;
-            &lt;a href=&#34;https://openreview.net/forum?id=a92XmeUn3U&#34; class=&#34;publication-link publication-link-primary&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Paper &lt;span aria-hidden=&#34;true&#34;&gt;&amp;#8599;&lt;/span&gt;&lt;/a&gt;
+            &lt;a href=&#34;#ZgotmplZ&#34; class=&#34;publication-link publication-link-primary&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Paper &lt;span aria-hidden=&#34;true&#34;&gt;&amp;#8599;&lt;/span&gt;&lt;/a&gt;
             
             
             
@@ -1415,7 +1415,7 @@ Member: 陳采妍、曾順偉、黃彥博、施如恩、林沂萱、劉語安、
     &lt;div class=&#34;publication-accent&#34; aria-hidden=&#34;true&#34;&gt;&lt;/div&gt;
     &lt;div class=&#34;publication-content&#34;&gt;
         &lt;div class=&#34;publication-heading&#34;&gt;
-            &lt;h2 class=&#34;publication-title&#34;&gt;&lt;a href=&#34;https://arxiv.org/abs/2603.16985&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Integrating Inductive Biases in Transformers via Distillation for Financial Time Series Forecasting&lt;/a&gt;&lt;/h2&gt;
+            &lt;h2 class=&#34;publication-title&#34;&gt;&lt;a href=&#34;#ZgotmplZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Integrating Inductive Biases in Transformers via Distillation for Financial Time Series Forecasting&lt;/a&gt;&lt;/h2&gt;
         &lt;/div&gt;
 
         &lt;p class=&#34;publication-authors&#34;&gt;&lt;strong&gt;Yu-Chen Den*&lt;/strong&gt;, Kuan-Yu Chen*, Kendro Vincent, Darby Tien-Hao Chang&lt;/p&gt;
@@ -1441,10 +1441,10 @@ Member: 陳采妍、曾順偉、黃彥博、施如恩、林沂萱、劉語安、
 
         
         &lt;nav class=&#34;publication-links&#34; aria-label=&#34;Resources for Integrating Inductive Biases in Transformers via Distillation for Financial Time Series Forecasting&#34;&gt;
-            &lt;a href=&#34;https://arxiv.org/abs/2603.16985&#34; class=&#34;publication-link publication-link-primary&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Paper &lt;span aria-hidden=&#34;true&#34;&gt;&amp;#8599;&lt;/span&gt;&lt;/a&gt;
+            &lt;a href=&#34;#ZgotmplZ&#34; class=&#34;publication-link publication-link-primary&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Paper &lt;span aria-hidden=&#34;true&#34;&gt;&amp;#8599;&lt;/span&gt;&lt;/a&gt;
             
-            &lt;a href=&#34;https://github.com/AbnerTeng/TIPS&#34; class=&#34;publication-link&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Code &lt;span aria-hidden=&#34;true&#34;&gt;&amp;#8599;&lt;/span&gt;&lt;/a&gt;
-            &lt;a href=&#34;https://drive.google.com/file/d/1Bh7p_5AgFqqIN_5PBfp4YdEEO8bor0Su/view?usp=sharing&#34; class=&#34;publication-link publication-link-poster&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Poster &lt;span aria-hidden=&#34;true&#34;&gt;&amp;#8599;&lt;/span&gt;&lt;/a&gt;
+            &lt;a href=&#34;#ZgotmplZ&#34; class=&#34;publication-link&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Code &lt;span aria-hidden=&#34;true&#34;&gt;&amp;#8599;&lt;/span&gt;&lt;/a&gt;
+            &lt;a href=&#34;#ZgotmplZ&#34; class=&#34;publication-link publication-link-poster&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Poster &lt;span aria-hidden=&#34;true&#34;&gt;&amp;#8599;&lt;/span&gt;&lt;/a&gt;
             
             
         &lt;/nav&gt;
@@ -1468,7 +1468,7 @@ Member: 陳采妍、曾順偉、黃彥博、施如恩、林沂萱、劉語安、
     &lt;div class=&#34;publication-accent&#34; aria-hidden=&#34;true&#34;&gt;&lt;/div&gt;
     &lt;div class=&#34;publication-content&#34;&gt;
         &lt;div class=&#34;publication-heading&#34;&gt;
-            &lt;h2 class=&#34;publication-title&#34;&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5025395&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Does One Pattern Fit All? Image Analysis with Different Equity Styles&lt;/a&gt;&lt;/h2&gt;
+            &lt;h2 class=&#34;publication-title&#34;&gt;&lt;a href=&#34;#ZgotmplZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Does One Pattern Fit All? Image Analysis with Different Equity Styles&lt;/a&gt;&lt;/h2&gt;
         &lt;/div&gt;
 
         &lt;p class=&#34;publication-authors&#34;&gt;&lt;strong&gt;Yu-Chen Den&lt;/strong&gt;, Zong-Wei Yeh, Kendro Vincent&lt;/p&gt;
@@ -1496,9 +1496,9 @@ Member: 陳采妍、曾順偉、黃彥博、施如恩、林沂萱、劉語安、
 
         
         &lt;nav class=&#34;publication-links&#34; aria-label=&#34;Resources for Does One Pattern Fit All? Image Analysis with Different Equity Styles&#34;&gt;
-            &lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5025395&#34; class=&#34;publication-link publication-link-primary&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Paper &lt;span aria-hidden=&#34;true&#34;&gt;&amp;#8599;&lt;/span&gt;&lt;/a&gt;
+            &lt;a href=&#34;#ZgotmplZ&#34; class=&#34;publication-link publication-link-primary&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Paper &lt;span aria-hidden=&#34;true&#34;&gt;&amp;#8599;&lt;/span&gt;&lt;/a&gt;
             
-            &lt;a href=&#34;https://github.com/AbnerTeng/Stock-pattern-recognition&#34; class=&#34;publication-link&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Code &lt;span aria-hidden=&#34;true&#34;&gt;&amp;#8599;&lt;/span&gt;&lt;/a&gt;
+            &lt;a href=&#34;#ZgotmplZ&#34; class=&#34;publication-link&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Code &lt;span aria-hidden=&#34;true&#34;&gt;&amp;#8599;&lt;/span&gt;&lt;/a&gt;
             
             
             

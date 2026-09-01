@@ -6,7 +6,7 @@
 
 <link rel='canonical' href='https://abnerteng.github.io/post/local-llm/'>
 
-<link rel="stylesheet" href="/scss/style.min.dbf9965dbbffc64dbdc60598a77b8418d1747de7cb1f12bfc073e5a8e5ca1910.css"><meta property='og:title' content='Local LLM 使用雜記'>
+<link rel="stylesheet" href="/scss/style.min.a56b174249686189c2f2e934060639e1cfcfb572821718f2e0ccc569f0d5b5a2.css"><meta property='og:title' content='Local LLM 使用雜記'>
 <meta property='og:description' content='透過 Ngrok 以及 ollama 讓我在本地端可以使用 server-hosted LLM'>
 <meta property='og:url' content='https://abnerteng.github.io/post/local-llm/'>
 <meta property='og:site_name' content='Abner Den 鄧昱辰'>
@@ -72,7 +72,7 @@
         
         <div class="site-meta">
             <h1 class="site-name"><a href="/">Abner Den 鄧昱辰</a></h1>
-            <h2 class="site-description">Ph.D. Student @ NTU · Research Scientist @ SinoPac</h2>
+            <h2 class="site-description">Ph.D. @ NTU · Research Scientist @ SinoPac</h2>
         </div>
     </header><ol class="social-menu">
             
@@ -85,12 +85,9 @@
                     >
                         
                         
-                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-  <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" />
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" aria-hidden="true">
+  <path fill="#6e40c9" d="M15 3C8.373 3 3 8.373 3 15c0 5.623 3.872 10.328 9.092 11.63A3.5 3.5 0 0 1 12 26.047v-2.051h-1.508c-.821 0-1.551-.353-1.905-1.009-.393-.729-.461-1.844-1.435-2.526-.289-.227-.069-.486.264-.451.615.174 1.125.596 1.605 1.222.478.627.703.769 1.596.769.433 0 1.081-.025 1.691-.121.328-.833.895-1.6 1.588-1.962-3.996-.411-5.903-2.399-5.903-5.098 0-1.162.495-2.286 1.336-3.233C9.053 10.647 8.706 8.73 9.435 8c1.798 0 2.885 1.166 3.146 1.481A9 9 0 0 1 15.495 9c1.036 0 2.024.174 2.922.483C18.675 9.17 19.763 8 21.565 8c.732.731.381 2.656.102 3.594.836.945 1.328 2.066 1.328 3.226 0 2.697-1.904 4.684-5.894 5.097C18.199 20.49 19 22.1 19 23.313v2.734c0 .104-.023.179-.035.268C23.641 24.676 27 20.236 27 15 27 8.373 21.627 3 15 3Z"/>
 </svg>
-
-
 
                         
                     </a>
@@ -105,10 +102,9 @@
                     >
                         
                         
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-  <path d="M12 2L2 7l10 5 10-5-10-5z"/>
-  <path d="M2 17l10 5 10-5"/>
-  <path d="M2 12l10 5 10-5"/>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" aria-hidden="true">
+  <path fill="#4285f4" d="M12 24a7 7 0 1 0 0-14 7 7 0 0 0 0 14Zm0-24L0 9.5l4.838 3.73A8 8 0 0 1 12 9a8 8 0 0 1 7.162 4.23L24 9.5 12 0Z"/>
+  <path fill="#a8c7fa" d="M12 11a6 6 0 0 0-5.56 3.75L12 19l5.56-4.25A6 6 0 0 0 12 11Z"/>
 </svg>
 
                         
@@ -124,13 +120,8 @@
                     >
                         
                         
-                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-linkedin" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-  <rect x="4" y="4" width="16" height="16" rx="2" />
-  <line x1="8" y1="11" x2="8" y2="16" />
-  <line x1="8" y1="8" x2="8" y2="8.01" />
-  <line x1="12" y1="16" x2="12" y2="11" />
-  <path d="M16 16v-3a2 2 0 0 0 -4 0" />
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" aria-hidden="true">
+  <path fill="#0a66c2" d="M24 4H6a2 2 0 0 0-2 2v18a2 2 0 0 0 2 2h18a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2ZM10.954 22h-2.95v-9.492h2.95V22Zm-1.505-10.849a1.72 1.72 0 1 1 0-3.439 1.72 1.72 0 0 1 0 3.439ZM22.004 22h-2.948v-4.616c0-1.101-.02-2.517-1.533-2.517-1.535 0-1.771 1.199-1.771 2.437V22h-2.948v-9.492h2.83v1.297h.04c.394-.746 1.356-1.533 2.791-1.533 2.987 0 3.539 1.966 3.539 4.522V22Z"/>
 </svg>
 
                         
@@ -146,14 +137,11 @@
                     >
                         
                         
-                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="#2c3e50" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-  <path d="M14 3v4a1 1 0 0 0 1 1h4" />
-  <path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z" />
-  <line x1="9" y1="9" x2="10" y2="9" />
-  <line x1="9" y1="13" x2="15" y2="13" />
-  <line x1="9" y1="17" x2="15" y2="17" />
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" aria-hidden="true">
+  <path fill="#e5484d" d="M5 2h14l6 6v18a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2Z"/>
+  <path fill="#fff" d="M19 2v6h6ZM8 13h14v2H8Zm0 4h14v2H8Zm0 4h9v2H8Z"/>
 </svg>
+
                         
                     </a>
                 </li>
@@ -167,12 +155,11 @@
                     >
                         
                         
-                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-gmail" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-  <path d="M16 20h3a1 1 0 0 0 1 -1v-14a1 1 0 0 0 -1 -1h-3v16z" />
-  <path d="M5 20h3v-16h-3a1 1 0 0 0 -1 1v14a1 1 0 0 0 1 1z" />
-  <path d="M16 4l-4 4l-4 -4" />
-  <path d="M4 6.5l8 7.5l8 -7.5" />
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" aria-hidden="true">
+  <path fill="#4285f4" d="M4 7.4 8.1 10.5V24H5.5A2.5 2.5 0 0 1 3 21.5V8.6c0-.5.2-.9.5-1.3Z"/>
+  <path fill="#34a853" d="m26 7.4-4.1 3.1V24h2.6a2.5 2.5 0 0 0 2.5-2.5V8.6c0-.5-.2-.9-.5-1.3Z"/>
+  <path fill="#fbbc04" d="M21.9 10.5 15 15.7l6.9 5.2Z"/>
+  <path fill="#ea4335" d="M5.2 6.1a2.5 2.5 0 0 1 3-.1l6.8 5.1L21.8 6a2.5 2.5 0 0 1 3 .1l1.7 1.2L15 16 3.5 7.3Z"/>
 </svg>
 
                         

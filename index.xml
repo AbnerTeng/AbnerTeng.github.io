@@ -1222,6 +1222,185 @@ Member: 陳采妍、曾順偉、黃彥博、施如恩、林沂萱、劉語安、
 &lt;/div&gt;
 
 &lt;div class=&#34;publication-list&#34;&gt;
+&lt;article class=&#34;publication-item&#34;
+    data-publication
+    data-tags=&#34;#generativerecommendation #conversationalrecommendation&#34;
+    data-type=&#34;preprint&#34;
+    data-year=&#34;2026&#34;&gt;
+    &lt;div class=&#34;publication-accent&#34; aria-hidden=&#34;true&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;publication-content&#34;&gt;
+        &lt;div class=&#34;publication-heading&#34;&gt;
+            &lt;h2 class=&#34;publication-title&#34;&gt;&lt;a href=&#34;https://arxiv.org/abs/2610.08136&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Adapting Generative Recommenders for Multi-Turn Interaction&lt;/a&gt;&lt;/h2&gt;
+        &lt;/div&gt;
+
+        &lt;p class=&#34;publication-authors&#34;&gt;&lt;strong&gt;Yu-Chen Den&lt;/strong&gt;, Zhi Rui Tam, Yung-Yu Shih, Shih-Hsin Wang, Yun-Nung Chen, Pu-Jen Cheng, Eugene Yang&lt;/p&gt;
+
+        &lt;div class=&#34;publication-meta&#34;&gt;
+            &lt;span class=&#34;publication-year&#34;&gt;2026&lt;/span&gt;
+            
+                
+                
+            
+            &lt;span class=&#34;publication-venue&#34;&gt;ECIR 2027 In Submission&lt;/span&gt;
+        &lt;/div&gt;
+
+        
+
+        
+        &lt;div class=&#34;publication-tags&#34; aria-label=&#34;Research topics&#34;&gt;
+            &lt;button class=&#34;publication-tag tag-generativerecommendation&#34; type=&#34;button&#34; data-tag-filter=&#34;#generativerecommendation&#34;&gt;#GenerativeRecommendation&lt;/button&gt;
+            &lt;button class=&#34;publication-tag tag-conversationalrecommendation&#34; type=&#34;button&#34; data-tag-filter=&#34;#conversationalrecommendation&#34;&gt;#ConversationalRecommendation&lt;/button&gt;
+            
+        &lt;/div&gt;
+        
+
+        
+        &lt;nav class=&#34;publication-links&#34; aria-label=&#34;Resources for Adapting Generative Recommenders for Multi-Turn Interaction&#34;&gt;
+            &lt;a href=&#34;https://arxiv.org/abs/2610.08136&#34; class=&#34;publication-link publication-link-primary publication-link-paper&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;span class=&#34;publication-link-icon&#34; aria-hidden=&#34;true&#34;&gt;▤&lt;/span&gt; Paper &lt;span aria-hidden=&#34;true&#34;&gt;&amp;#8599;&lt;/span&gt;&lt;/a&gt;
+            
+            
+            
+            
+            
+        &lt;/nav&gt;
+        
+    &lt;/div&gt;
+    
+    
+&lt;/article&gt;
+
+&lt;article class=&#34;publication-item&#34;
+    data-publication
+    data-tags=&#34;#financialqa #evaluation&#34;
+    data-type=&#34;preprint&#34;
+    data-year=&#34;2026&#34;&gt;
+    &lt;div class=&#34;publication-accent&#34; aria-hidden=&#34;true&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;publication-content&#34;&gt;
+        &lt;div class=&#34;publication-heading&#34;&gt;
+            &lt;h2 class=&#34;publication-title&#34;&gt;Recall Does Not Guarantee Correctness in Financial Numerical QA&lt;/h2&gt;
+        &lt;/div&gt;
+
+        &lt;p class=&#34;publication-authors&#34;&gt;Yung-Yu Shih, &lt;strong&gt;Yu-Chen Den&lt;/strong&gt;, Eugene Yang, Yun-Nung Chen&lt;/p&gt;
+
+        &lt;div class=&#34;publication-meta&#34;&gt;
+            &lt;span class=&#34;publication-year&#34;&gt;2026&lt;/span&gt;
+            
+                
+                
+            
+            &lt;span class=&#34;publication-venue&#34;&gt;ECIR 2027 In Submission&lt;/span&gt;
+        &lt;/div&gt;
+
+        
+
+        
+        &lt;div class=&#34;publication-tags&#34; aria-label=&#34;Research topics&#34;&gt;
+            &lt;button class=&#34;publication-tag tag-financialqa&#34; type=&#34;button&#34; data-tag-filter=&#34;#financialqa&#34;&gt;#FinancialQA&lt;/button&gt;
+            &lt;button class=&#34;publication-tag tag-evaluation&#34; type=&#34;button&#34; data-tag-filter=&#34;#evaluation&#34;&gt;#Evaluation&lt;/button&gt;
+            
+        &lt;/div&gt;
+        
+
+        
+    &lt;/div&gt;
+    
+    
+&lt;/article&gt;
+
+&lt;article class=&#34;publication-item&#34;
+    data-publication
+    data-tags=&#34;#incontextlearning #metalearning&#34;
+    data-type=&#34;preprint&#34;
+    data-year=&#34;2026&#34;&gt;
+    &lt;div class=&#34;publication-accent&#34; aria-hidden=&#34;true&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;publication-content&#34;&gt;
+        &lt;div class=&#34;publication-heading&#34;&gt;
+            &lt;h2 class=&#34;publication-title&#34;&gt;&lt;a href=&#34;https://arxiv.org/abs/2610.05852&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;RepICL: In-Context Few-Shot Learning Across Frozen Representation Spaces&lt;/a&gt;&lt;/h2&gt;
+        &lt;/div&gt;
+
+        &lt;p class=&#34;publication-authors&#34;&gt;Yu-Hsiang Liu, Kuan-Yu Chen, Meng-Hsuan Chang, Chih-Sheng Chen, &lt;strong&gt;Yu-Chen Den&lt;/strong&gt;, Darby Tien-Hao Chang&lt;/p&gt;
+
+        &lt;div class=&#34;publication-meta&#34;&gt;
+            &lt;span class=&#34;publication-year&#34;&gt;2026&lt;/span&gt;
+            
+                
+                
+            
+            &lt;span class=&#34;publication-venue&#34;&gt;ICLR 2027 In Submission&lt;/span&gt;
+        &lt;/div&gt;
+
+        
+
+        
+        &lt;div class=&#34;publication-tags&#34; aria-label=&#34;Research topics&#34;&gt;
+            &lt;button class=&#34;publication-tag tag-incontextlearning&#34; type=&#34;button&#34; data-tag-filter=&#34;#incontextlearning&#34;&gt;#InContextLearning&lt;/button&gt;
+            &lt;button class=&#34;publication-tag tag-metalearning&#34; type=&#34;button&#34; data-tag-filter=&#34;#metalearning&#34;&gt;#MetaLearning&lt;/button&gt;
+            
+        &lt;/div&gt;
+        
+
+        
+        &lt;nav class=&#34;publication-links&#34; aria-label=&#34;Resources for RepICL: In-Context Few-Shot Learning Across Frozen Representation Spaces&#34;&gt;
+            &lt;a href=&#34;https://arxiv.org/abs/2610.05852&#34; class=&#34;publication-link publication-link-primary publication-link-paper&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;span class=&#34;publication-link-icon&#34; aria-hidden=&#34;true&#34;&gt;▤&lt;/span&gt; Paper &lt;span aria-hidden=&#34;true&#34;&gt;&amp;#8599;&lt;/span&gt;&lt;/a&gt;
+            
+            
+            
+            
+            
+        &lt;/nav&gt;
+        
+    &lt;/div&gt;
+    
+    
+&lt;/article&gt;
+
+&lt;article class=&#34;publication-item&#34;
+    data-publication
+    data-tags=&#34;#finance #pretraining&#34;
+    data-type=&#34;preprint&#34;
+    data-year=&#34;2026&#34;&gt;
+    &lt;div class=&#34;publication-accent&#34; aria-hidden=&#34;true&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;publication-content&#34;&gt;
+        &lt;div class=&#34;publication-heading&#34;&gt;
+            &lt;h2 class=&#34;publication-title&#34;&gt;&lt;a href=&#34;https://arxiv.org/abs/2610.02866&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;DIVINE: Simple Cross-Market Stock Pretraining via Diverse Indicator Reconstruction&lt;/a&gt;&lt;/h2&gt;
+        &lt;/div&gt;
+
+        &lt;p class=&#34;publication-authors&#34;&gt;Kuan-Yu Chen, Shu-Cheng Cheng, &lt;strong&gt;Yu-Chen Den&lt;/strong&gt;, Wei-Cheng Liao, Darby Tien-Hao Chang&lt;/p&gt;
+
+        &lt;div class=&#34;publication-meta&#34;&gt;
+            &lt;span class=&#34;publication-year&#34;&gt;2026&lt;/span&gt;
+            
+                
+                
+            
+            &lt;span class=&#34;publication-venue&#34;&gt;ICLR 2027 In Submission&lt;/span&gt;
+        &lt;/div&gt;
+
+        
+
+        
+        &lt;div class=&#34;publication-tags&#34; aria-label=&#34;Research topics&#34;&gt;
+            &lt;button class=&#34;publication-tag tag-finance&#34; type=&#34;button&#34; data-tag-filter=&#34;#finance&#34;&gt;#Finance&lt;/button&gt;
+            &lt;button class=&#34;publication-tag tag-pretraining&#34; type=&#34;button&#34; data-tag-filter=&#34;#pretraining&#34;&gt;#Pretraining&lt;/button&gt;
+            
+        &lt;/div&gt;
+        
+
+        
+        &lt;nav class=&#34;publication-links&#34; aria-label=&#34;Resources for DIVINE: Simple Cross-Market Stock Pretraining via Diverse Indicator Reconstruction&#34;&gt;
+            &lt;a href=&#34;https://arxiv.org/abs/2610.02866&#34; class=&#34;publication-link publication-link-primary publication-link-paper&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;span class=&#34;publication-link-icon&#34; aria-hidden=&#34;true&#34;&gt;▤&lt;/span&gt; Paper &lt;span aria-hidden=&#34;true&#34;&gt;&amp;#8599;&lt;/span&gt;&lt;/a&gt;
+            
+            
+            
+            
+            
+        &lt;/nav&gt;
+        
+    &lt;/div&gt;
+    
+    
+&lt;/article&gt;
+
 &lt;article class=&#34;publication-item has-preview is-featured&#34;
     data-publication
     data-tags=&#34;#finance #transformer&#34;
@@ -1239,9 +1418,9 @@ Member: 陳采妍、曾順偉、黃彥博、施如恩、林沂萱、劉語安、
             &lt;span class=&#34;publication-year&#34;&gt;2026&lt;/span&gt;
             
                 
-                &lt;span class=&#34;publication-status&#34;&gt;Preprint&lt;/span&gt;
+                
             
-            
+            &lt;span class=&#34;publication-venue&#34;&gt;KDD 2027 In Submission&lt;/span&gt;
         &lt;/div&gt;
 
         
